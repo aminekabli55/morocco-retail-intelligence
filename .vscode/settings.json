@@ -5,7 +5,12 @@
         "**/.hg": true,
         "**/.jj": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true
+        "**/Thumbs.db": true,
+        "src/morocco_retail_intelligence/__pycache__": true,
+        "src/morocco_retail_intelligence/data/__pycache__": true
     },
-    "hide-files.files": []
+    "hide-files.files": [
+        "src/morocco_retail_intelligence/__pycache__",
+        "src/morocco_retail_intelligence/data/__pycache__"
+    ]
 }

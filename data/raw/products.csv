@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_price_mad,cost_price_mad,stock_status
+P001,Smartphone 1,Electronics,4083.83,2730.03,Low Stock
+P002,Smartphone 2,Electronics,3759.87,2163.53,Out of Stock
+P003,Smartphone 3,Electronics,4029.62,3071.53,In Stock
+P004,Smartphone 4,Electronics,2715.13,1765.15,Low Stock
+P005,Headphones 1,Electronics,3533.55,2728.42,In Stock
+P006,Headphones 2,Electronics,1771.22,1239.39,In Stock
+P007,Headphones 3,Electronics,4310.88,3106.2,Low Stock
+P008,Headphones 4,Electronics,2309.64,1875.63,Low Stock
+P009,Smartwatch 1,Electronics,4102.56,2472.01,In Stock
+P010,Smartwatch 2,Electronics,995.29,588.87,In Stock
+P011,Smartwatch 3,Electronics,3960.34,3212.74,In Stock
+P012,Smartwatch 4,Electronics,2377.04,1608.73,In Stock
+P013,Tablet 1,Electronics,1359.57,922.39,In Stock
+P014,Tablet 2,Electronics,3643.31,2433.84,Low Stock
+P015,Tablet 3,Electronics,3772.12,2392.8,Low Stock
+P016,Tablet 4,Electronics,4214.15,2758.66,In Stock
+P017,Camera 1,Electronics,3696.96,2172.83,In Stock
+P018,Camera 2,Electronics,841.14,641.34,In Stock
+P019,Camera 3,Electronics,3792.85,2885.59,In Stock
+P020,Camera 4,Electronics,3215.78,1890.06,In Stock
+P021,Laptop 1,Computers,5253.94,3557.95,In Stock
+P022,Laptop 2,Computers,5844.14,4215.81,In Stock
+P023,Laptop 3,Computers,4586.76,2899.14,In Stock
+P024,Laptop 4,Computers,3838.34,2333.47,In Stock
+P025,Monitor 1,Computers,6384.29,3914.61,In Stock
+P026,Monitor 2,Computers,2889.26,1818.13,In Stock
+P027,Monitor 3,Computers,4573.47,3483.39,In Stock
+P028,Monitor 4,Computers,3653.02,2812.04,In Stock
+P029,Keyboard 1,Computers,1308.77,751.64,In Stock
+P030,Keyboard 2,Computers,3992.07,2369.47,In Stock
+P031,Keyboard 3,Computers,2100.63,1550.28,In Stock
+P032,Keyboard 4,Computers,3498.04,2208.69,In Stock
+P033,Mouse 1,Computers,3380.68,1939.38,In Stock
+P034,Mouse 2,Computers,7047.19,5604.75,In Stock
+P035,Mouse 3,Computers,2794.47,2268.21,Low Stock
+P036,Mouse 4,Computers,5550.2,3726.0,In Stock
+P037,SSD 1,Computers,1758.95,1396.08,In Stock
+P038,SSD 2,Computers,2406.44,1522.33,In Stock
+P039,SSD 3,Computers,2250.08,1757.96,Low Stock
+P040,SSD 4,Computers,5565.92,3710.6,In Stock
+P041,Blender 1,Home,820.18,595.01,In Stock
+P042,Blender 2,Home,642.22,360.44,In Stock
+P043,Blender 3,Home,551.33,324.75,In Stock
+P044,Blender 4,Home,823.93,491.11,Low Stock
+P045,Coffee Maker 1,Home,816.97,525.85,In Stock
+P046,Coffee Maker 2,Home,226.62,183.29,In Stock
+P047,Coffee Maker 3,Home,1030.24,589.64,In Stock
+P048,Coffee Maker 4,Home,721.42,579.45,In Stock
+P049,Vacuum Cleaner 1,Home,703.22,437.46,In Stock
+P050,Vacuum Cleaner 2,Home,753.11,503.46,In Stock
+P051,Vacuum Cleaner 3,Home,1076.3,852.39,In Stock
+P052,Vacuum Cleaner 4,Home,788.39,456.73,In Stock
+P053,Air Fryer 1,Home,499.9,363.95,In Stock
+P054,Air Fryer 2,Home,1015.34,587.97,Low Stock
+P055,Air Fryer 3,Home,445.95,249.78,In Stock
+P056,Air Fryer 4,Home,594.75,460.36,Low Stock
+P057,Lamp 1,Home,537.87,434.21,In Stock
+P058,Lamp 2,Home,747.17,462.58,Out of Stock
+P059,Lamp 3,Home,376.57,211.68,In Stock
+P060,Lamp 4,Home,1251.94,989.98,In Stock
+P061,Gaming Console 1,Gaming,3052.03,2414.86,In Stock
+P062,Gaming Console 2,Gaming,1430.92,1085.27,In Stock
+P063,Gaming Console 3,Gaming,1593.71,917.19,In Stock
+P064,Gaming Console 4,Gaming,1280.14,1027.88,In Stock
+P065,Controller 1,Gaming,886.18,686.26,In Stock
+P066,Controller 2,Gaming,1045.54,744.25,Low Stock
+P067,Controller 3,Gaming,1093.95,693.33,Low Stock
+P068,Controller 4,Gaming,3280.55,2247.83,In Stock
+P069,Gaming Headset 1,Gaming,579.3,354.54,In Stock
+P070,Gaming Headset 2,Gaming,2451.0,1428.68,In Stock
+P071,Gaming Headset 3,Gaming,2497.82,1765.71,In Stock
+P072,Gaming Headset 4,Gaming,2807.63,2086.52,In Stock
+P073,Gaming Chair 1,Gaming,909.58,530.66,Low Stock
+P074,Gaming Chair 2,Gaming,1661.17,1048.62,In Stock
+P075,Gaming Chair 3,Gaming,2409.28,1946.74,In Stock
+P076,Gaming Chair 4,Gaming,3147.96,1752.51,In Stock
+P077,Game 1,Gaming,2327.81,1346.85,In Stock
+P078,Game 2,Gaming,1721.9,1396.26,In Stock
+P079,Game 3,Gaming,3171.13,2432.82,In Stock
+P080,Game 4,Gaming,2753.03,1527.42,In Stock
+P081,USB Cable 1,Accessories,239.92,183.57,In Stock
+P082,USB Cable 2,Accessories,169.73,121.12,Low Stock
+P083,USB Cable 3,Accessories,186.73,123.5,In Stock
+P084,USB Cable 4,Accessories,145.08,105.33,Low Stock
+P085,Power Bank 1,Accessories,151.67,93.57,In Stock
+P086,Power Bank 2,Accessories,220.31,169.74,In Stock
+P087,Power Bank 3,Accessories,60.64,43.08,In Stock
+P088,Power Bank 4,Accessories,238.8,151.35,In Stock
+P089,Phone Case 1,Accessories,261.43,155.47,In Stock
+P090,Phone Case 2,Accessories,81.1,47.13,In Stock
+P091,Phone Case 3,Accessories,58.02,34.65,In Stock
+P092,Phone Case 4,Accessories,183.92,134.96,In Stock
+P093,Charger 1,Accessories,119.73,82.16,Low Stock
+P094,Charger 2,Accessories,245.02,137.64,In Stock
+P095,Charger 3,Accessories,100.64,62.13,In Stock
+P096,Charger 4,Accessories,142.82,80.45,In Stock
+P097,HDMI Cable 1,Accessories,168.08,97.06,Low Stock
+P098,HDMI Cable 2,Accessories,57.21,45.75,In Stock
+P099,HDMI Cable 3,Accessories,243.24,193.06,Out of Stock
+P100,HDMI Cable 4,Accessories,233.48,177.55,In Stock
