@@ -1,0 +1,3201 @@
+payment_id,order_id,payment_method,payment_status,payment_amount_mad
+PAY00001,O00001,card,paid,9075.92
+PAY00002,O00002,card,paid,3387.04
+PAY00003,O00003,card,paid,11261.11
+PAY00004,O00004,cash on delivery,paid,12585.26
+PAY00005,O00005,bank transfer,paid,6969.15
+PAY00006,O00006,card,paid,703.22
+PAY00007,O00007,cash on delivery,paid,1425.32
+PAY00008,O00008,card,refunded,9213.52
+PAY00009,O00009,card,paid,7146.85
+PAY00010,O00010,cash on delivery,paid,6057.03
+PAY00011,O00011,cash on delivery,paid,3478.7
+PAY00012,O00012,cash on delivery,failed,6438.73
+PAY00013,O00013,bank transfer,failed,4201.26
+PAY00014,O00014,cash on delivery,failed,6384.29
+PAY00015,O00015,cash on delivery,paid,3314.36
+PAY00016,O00016,card,paid,2003.2
+PAY00017,O00017,cash on delivery,paid,2321.12
+PAY00018,O00018,card,paid,2791.25
+PAY00019,O00019,cash on delivery,paid,1868.58
+PAY00020,O00020,bank transfer,paid,10818.59
+PAY00021,O00021,cash on delivery,paid,7824.62
+PAY00022,O00022,cash on delivery,paid,1549.02
+PAY00023,O00023,cash on delivery,refunded,240.52
+PAY00024,O00024,cash on delivery,paid,2192.1
+PAY00025,O00025,cash on delivery,failed,985.25
+PAY00026,O00026,cash on delivery,paid,4310.88
+PAY00027,O00027,card,paid,5472.97
+PAY00028,O00028,cash on delivery,paid,7117.1
+PAY00029,O00029,card,paid,13661.56
+PAY00030,O00030,card,paid,9483.88
+PAY00031,O00031,card,paid,1927.42
+PAY00032,O00032,card,refunded,1668.94
+PAY00033,O00033,card,paid,245.02
+PAY00034,O00034,cash on delivery,paid,5695.44
+PAY00035,O00035,bank transfer,paid,598.0
+PAY00036,O00036,cash on delivery,paid,15913.71
+PAY00037,O00037,cash on delivery,paid,14019.81
+PAY00038,O00038,card,paid,6467.88
+PAY00039,O00039,cash on delivery,paid,1182.13
+PAY00040,O00040,cash on delivery,paid,19187.87
+PAY00041,O00041,card,paid,135.68
+PAY00042,O00042,card,paid,367.84
+PAY00043,O00043,card,paid,14642.89
+PAY00044,O00044,card,paid,552.18
+PAY00045,O00045,cash on delivery,paid,2720.74
+PAY00046,O00046,cash on delivery,refunded,570.89
+PAY00047,O00047,card,paid,3574.93
+PAY00048,O00048,card,paid,1014.81
+PAY00049,O00049,card,paid,3673.02
+PAY00050,O00050,cash on delivery,paid,94.35
+PAY00051,O00051,cash on delivery,paid,1661.17
+PAY00052,O00052,cash on delivery,paid,1721.9
+PAY00053,O00053,wallet,paid,4675.62
+PAY00054,O00054,cash on delivery,refunded,14985.54
+PAY00055,O00055,card,paid,24389.93
+PAY00056,O00056,cash on delivery,paid,770.27
+PAY00057,O00057,card,paid,1615.12
+PAY00058,O00058,card,paid,7453.18
+PAY00059,O00059,wallet,paid,915.76
+PAY00060,O00060,card,paid,6971.97
+PAY00061,O00061,card,paid,186.5
+PAY00062,O00062,card,paid,3792.32
+PAY00063,O00063,cash on delivery,paid,1328.77
+PAY00064,O00064,cash on delivery,paid,185.78
+PAY00065,O00065,cash on delivery,paid,2712.28
+PAY00066,O00066,card,paid,9881.65
+PAY00067,O00067,card,paid,9264.82
+PAY00068,O00068,card,paid,21688.56
+PAY00069,O00069,wallet,paid,4672.41
+PAY00070,O00070,cash on delivery,paid,2482.56
+PAY00071,O00071,bank transfer,paid,281.08
+PAY00072,O00072,cash on delivery,paid,4047.98
+PAY00073,O00073,cash on delivery,paid,3957.0
+PAY00074,O00074,cash on delivery,paid,4236.26
+PAY00075,O00075,cash on delivery,paid,17432.58
+PAY00076,O00076,card,paid,520.57
+PAY00077,O00077,card,paid,539.9
+PAY00078,O00078,cash on delivery,paid,1067.62
+PAY00079,O00079,card,paid,411.72
+PAY00080,O00080,card,paid,8828.39
+PAY00081,O00081,cash on delivery,paid,257.08
+PAY00082,O00082,card,failed,3143.27
+PAY00083,O00083,card,paid,3362.34
+PAY00084,O00084,card,paid,465.58
+PAY00085,O00085,cash on delivery,paid,9608.35
+PAY00086,O00086,cash on delivery,paid,2441.39
+PAY00087,O00087,wallet,paid,18225.23
+PAY00088,O00088,card,paid,16401.71
+PAY00089,O00089,bank transfer,paid,5978.67
+PAY00090,O00090,cash on delivery,paid,6292.39
+PAY00091,O00091,cash on delivery,paid,1589.71
+PAY00092,O00092,card,paid,2822.78
+PAY00093,O00093,cash on delivery,paid,207.39
+PAY00094,O00094,cash on delivery,paid,4832.88
+PAY00095,O00095,card,paid,6541.4
+PAY00096,O00096,cash on delivery,paid,4445.92
+PAY00097,O00097,card,paid,6467.39
+PAY00098,O00098,card,paid,7342.55
+PAY00099,O00099,bank transfer,paid,4937.0
+PAY00100,O00100,cash on delivery,paid,2242.42
+PAY00101,O00101,cash on delivery,paid,1484.34
+PAY00102,O00102,card,paid,905.7
+PAY00103,O00103,cash on delivery,paid,10684.67
+PAY00104,O00104,card,failed,1099.15
+PAY00105,O00105,cash on delivery,paid,2583.95
+PAY00106,O00106,card,paid,10765.63
+PAY00107,O00107,wallet,paid,1937.57
+PAY00108,O00108,cash on delivery,paid,2540.02
+PAY00109,O00109,card,paid,2471.82
+PAY00110,O00110,card,paid,4770.43
+PAY00111,O00111,cash on delivery,paid,1974.96
+PAY00112,O00112,wallet,failed,3965.14
+PAY00113,O00113,wallet,paid,5300.92
+PAY00114,O00114,bank transfer,paid,998.67
+PAY00115,O00115,cash on delivery,paid,2239.15
+PAY00116,O00116,cash on delivery,refunded,3220.89
+PAY00117,O00117,card,paid,12005.62
+PAY00118,O00118,bank transfer,paid,6222.77
+PAY00119,O00119,card,paid,2856.84
+PAY00120,O00120,cash on delivery,paid,141.4
+PAY00121,O00121,card,paid,243.24
+PAY00122,O00122,card,paid,934.58
+PAY00123,O00123,cash on delivery,paid,2695.77
+PAY00124,O00124,cash on delivery,paid,4830.41
+PAY00125,O00125,cash on delivery,refunded,3235.88
+PAY00126,O00126,wallet,paid,10605.25
+PAY00127,O00127,bank transfer,paid,3258.7
+PAY00128,O00128,cash on delivery,paid,12066.57
+PAY00129,O00129,card,paid,571.33
+PAY00130,O00130,cash on delivery,paid,148.92
+PAY00131,O00131,cash on delivery,paid,686.14
+PAY00132,O00132,cash on delivery,paid,201.3
+PAY00133,O00133,cash on delivery,paid,393.46
+PAY00134,O00134,cash on delivery,paid,5664.01
+PAY00135,O00135,card,paid,2871.58
+PAY00136,O00136,card,paid,7768.12
+PAY00137,O00137,card,paid,3596.96
+PAY00138,O00138,cash on delivery,paid,154.46
+PAY00139,O00139,card,paid,6224.59
+PAY00140,O00140,card,paid,3121.49
+PAY00141,O00141,cash on delivery,paid,4145.34
+PAY00142,O00142,cash on delivery,paid,3039.66
+PAY00143,O00143,card,paid,844.19
+PAY00144,O00144,cash on delivery,paid,7279.41
+PAY00145,O00145,cash on delivery,paid,2694.75
+PAY00146,O00146,card,paid,165.22
+PAY00147,O00147,cash on delivery,paid,9876.65
+PAY00148,O00148,wallet,paid,258.8
+PAY00149,O00149,card,paid,2981.99
+PAY00150,O00150,card,paid,186.27
+PAY00151,O00151,cash on delivery,paid,3548.04
+PAY00152,O00152,cash on delivery,paid,3878.14
+PAY00153,O00153,bank transfer,refunded,1087.66
+PAY00154,O00154,cash on delivery,paid,3938.75
+PAY00155,O00155,cash on delivery,paid,863.93
+PAY00156,O00156,card,paid,3596.98
+PAY00157,O00157,cash on delivery,paid,3116.64
+PAY00158,O00158,cash on delivery,paid,7590.1
+PAY00159,O00159,cash on delivery,paid,10461.11
+PAY00160,O00160,card,paid,3571.88
+PAY00161,O00161,cash on delivery,paid,278.3
+PAY00162,O00162,cash on delivery,paid,6461.18
+PAY00163,O00163,card,paid,11346.36
+PAY00164,O00164,card,paid,1811.22
+PAY00165,O00165,cash on delivery,paid,19757.17
+PAY00166,O00166,bank transfer,paid,7889.67
+PAY00167,O00167,cash on delivery,refunded,3797.06
+PAY00168,O00168,card,paid,17869.94
+PAY00169,O00169,card,paid,4118.89
+PAY00170,O00170,card,paid,9365.2
+PAY00171,O00171,card,paid,3729.44
+PAY00172,O00172,card,paid,3495.37
+PAY00173,O00173,cash on delivery,paid,9833.48
+PAY00174,O00174,card,paid,9667.01
+PAY00175,O00175,wallet,paid,1178.03
+PAY00176,O00176,card,paid,667.43
+PAY00177,O00177,cash on delivery,failed,1236.13
+PAY00178,O00178,bank transfer,paid,2478.62
+PAY00179,O00179,bank transfer,refunded,939.05
+PAY00180,O00180,wallet,paid,570.27
+PAY00181,O00181,card,paid,3812.73
+PAY00182,O00182,card,paid,4572.07
+PAY00183,O00183,cash on delivery,paid,6896.12
+PAY00184,O00184,card,paid,10429.67
+PAY00185,O00185,cash on delivery,paid,7283.32
+PAY00186,O00186,cash on delivery,paid,11564.43
+PAY00187,O00187,wallet,paid,3312.05
+PAY00188,O00188,cash on delivery,paid,894.1
+PAY00189,O00189,cash on delivery,paid,13121.66
+PAY00190,O00190,cash on delivery,paid,627.49
+PAY00191,O00191,card,paid,3406.29
+PAY00192,O00192,cash on delivery,paid,295.02
+PAY00193,O00193,wallet,paid,8540.86
+PAY00194,O00194,cash on delivery,paid,1294.7
+PAY00195,O00195,card,paid,1439.62
+PAY00196,O00196,card,paid,3400.68
+PAY00197,O00197,cash on delivery,paid,1112.45
+PAY00198,O00198,card,paid,13760.28
+PAY00199,O00199,card,paid,3119.49
+PAY00200,O00200,cash on delivery,paid,4506.7
+PAY00201,O00201,cash on delivery,paid,1687.86
+PAY00202,O00202,cash on delivery,paid,6592.12
+PAY00203,O00203,cash on delivery,paid,9030.55
+PAY00204,O00204,cash on delivery,paid,1663.61
+PAY00205,O00205,card,paid,2814.88
+PAY00206,O00206,cash on delivery,paid,8310.49
+PAY00207,O00207,card,paid,485.01
+PAY00208,O00208,card,paid,13396.61
+PAY00209,O00209,cash on delivery,paid,3228.48
+PAY00210,O00210,wallet,paid,4103.83
+PAY00211,O00211,wallet,paid,2493.62
+PAY00212,O00212,card,paid,19639.35
+PAY00213,O00213,cash on delivery,paid,10458.03
+PAY00214,O00214,cash on delivery,paid,1788.95
+PAY00215,O00215,card,paid,693.58
+PAY00216,O00216,cash on delivery,paid,3118.24
+PAY00217,O00217,bank transfer,paid,3367.36
+PAY00218,O00218,cash on delivery,paid,13111.98
+PAY00219,O00219,card,paid,1998.19
+PAY00220,O00220,cash on delivery,paid,7336.49
+PAY00221,O00221,card,paid,6836.52
+PAY00222,O00222,bank transfer,paid,715.42
+PAY00223,O00223,card,paid,3858.14
+PAY00224,O00224,cash on delivery,paid,3744.5
+PAY00225,O00225,cash on delivery,paid,2203.46
+PAY00226,O00226,cash on delivery,paid,3250.78
+PAY00227,O00227,card,paid,7006.87
+PAY00228,O00228,wallet,paid,540.54
+PAY00229,O00229,cash on delivery,paid,2471.82
+PAY00230,O00230,cash on delivery,paid,1685.25
+PAY00231,O00231,card,paid,1360.26
+PAY00232,O00232,cash on delivery,paid,5828.4
+PAY00233,O00233,card,paid,3480.57
+PAY00234,O00234,cash on delivery,paid,8600.03
+PAY00235,O00235,bank transfer,paid,198.08
+PAY00236,O00236,cash on delivery,paid,5980.34
+PAY00237,O00237,card,refunded,2146.65
+PAY00238,O00238,cash on delivery,paid,4430.7
+PAY00239,O00239,cash on delivery,paid,3484.6
+PAY00240,O00240,card,paid,226.62
+PAY00241,O00241,bank transfer,paid,19976.84
+PAY00242,O00242,card,refunded,13981.42
+PAY00243,O00243,card,paid,423.46
+PAY00244,O00244,cash on delivery,paid,11403.55
+PAY00245,O00245,card,paid,6978.92
+PAY00246,O00246,card,paid,16372.93
+PAY00247,O00247,card,paid,7054.79
+PAY00248,O00248,cash on delivery,paid,1010.25
+PAY00249,O00249,card,paid,8217.21
+PAY00250,O00250,cash on delivery,paid,1314.52
+PAY00251,O00251,cash on delivery,paid,5440.11
+PAY00252,O00252,bank transfer,paid,2009.99
+PAY00253,O00253,bank transfer,paid,7115.41
+PAY00254,O00254,cash on delivery,paid,2952.42
+PAY00255,O00255,wallet,paid,9891.09
+PAY00256,O00256,card,paid,450.8
+PAY00257,O00257,cash on delivery,paid,7829.34
+PAY00258,O00258,cash on delivery,paid,3606.88
+PAY00259,O00259,cash on delivery,paid,2123.35
+PAY00260,O00260,cash on delivery,paid,1087.66
+PAY00261,O00261,cash on delivery,paid,3305.55
+PAY00262,O00262,card,refunded,6494.34
+PAY00263,O00263,card,paid,11449.5
+PAY00264,O00264,cash on delivery,paid,3900.3
+PAY00265,O00265,cash on delivery,paid,6525.03
+PAY00266,O00266,bank transfer,paid,5850.54
+PAY00267,O00267,card,paid,2664.44
+PAY00268,O00268,bank transfer,refunded,148.32
+PAY00269,O00269,card,refunded,3517.18
+PAY00270,O00270,card,paid,12750.02
+PAY00271,O00271,wallet,paid,8912.7
+PAY00272,O00272,bank transfer,paid,10098.59
+PAY00273,O00273,card,paid,11267.58
+PAY00274,O00274,cash on delivery,paid,21860.56
+PAY00275,O00275,card,paid,4120.95
+PAY00276,O00276,card,paid,689.14
+PAY00277,O00277,cash on delivery,paid,267.49
+PAY00278,O00278,cash on delivery,paid,1691.17
+PAY00279,O00279,bank transfer,paid,1489.86
+PAY00280,O00280,card,paid,156.34
+PAY00281,O00281,cash on delivery,refunded,1467.84
+PAY00282,O00282,cash on delivery,paid,6581.28
+PAY00283,O00283,bank transfer,paid,652.88
+PAY00284,O00284,card,paid,10974.14
+PAY00285,O00285,card,paid,8424.1
+PAY00286,O00286,cash on delivery,paid,4013.41
+PAY00287,O00287,cash on delivery,paid,12249.24
+PAY00288,O00288,cash on delivery,paid,16369.16
+PAY00289,O00289,card,failed,3033.52
+PAY00290,O00290,cash on delivery,paid,2901.84
+PAY00291,O00291,card,paid,4615.24
+PAY00292,O00292,card,paid,130.64
+PAY00293,O00293,cash on delivery,paid,4881.91
+PAY00294,O00294,card,paid,7222.6
+PAY00295,O00295,cash on delivery,paid,336.92
+PAY00296,O00296,cash on delivery,refunded,667.43
+PAY00297,O00297,cash on delivery,failed,944.58
+PAY00298,O00298,card,paid,9205.14
+PAY00299,O00299,card,paid,5018.51
+PAY00300,O00300,cash on delivery,paid,438.29
+PAY00301,O00301,bank transfer,paid,3524.28
+PAY00302,O00302,bank transfer,paid,9522.13
+PAY00303,O00303,cash on delivery,paid,508.27
+PAY00304,O00304,card,paid,120.51
+PAY00305,O00305,cash on delivery,paid,5990.15
+PAY00306,O00306,card,paid,4263.24
+PAY00307,O00307,cash on delivery,paid,782.17
+PAY00308,O00308,card,paid,3385.61
+PAY00309,O00309,cash on delivery,paid,14712.79
+PAY00310,O00310,cash on delivery,paid,4103.65
+PAY00311,O00311,card,paid,3078.05
+PAY00312,O00312,wallet,paid,984.57
+PAY00313,O00313,card,paid,9661.94
+PAY00314,O00314,card,paid,236.78
+PAY00315,O00315,cash on delivery,paid,5772.76
+PAY00316,O00316,cash on delivery,refunded,5920.79
+PAY00317,O00317,bank transfer,paid,2744.84
+PAY00318,O00318,card,paid,3405.68
+PAY00319,O00319,cash on delivery,paid,1271.94
+PAY00320,O00320,card,paid,497.6
+PAY00321,O00321,cash on delivery,paid,511.72
+PAY00322,O00322,card,paid,729.81
+PAY00323,O00323,card,paid,6387.27
+PAY00324,O00324,card,refunded,1554.02
+PAY00325,O00325,wallet,paid,2659.44
+PAY00326,O00326,card,paid,19519.08
+PAY00327,O00327,card,paid,11504.42
+PAY00328,O00328,card,failed,151.77
+PAY00329,O00329,card,paid,9410.2
+PAY00330,O00330,card,paid,492.4
+PAY00331,O00331,card,paid,1847.55
+PAY00332,O00332,cash on delivery,paid,23898.23
+PAY00333,O00333,cash on delivery,paid,14705.53
+PAY00334,O00334,cash on delivery,paid,7543.46
+PAY00335,O00335,card,paid,10098.87
+PAY00336,O00336,card,paid,453.72
+PAY00337,O00337,card,paid,1176.1
+PAY00338,O00338,card,paid,5380.31
+PAY00339,O00339,bank transfer,paid,3225.89
+PAY00340,O00340,card,paid,3322.19
+PAY00341,O00341,cash on delivery,paid,7373.33
+PAY00342,O00342,cash on delivery,paid,14508.52
+PAY00343,O00343,cash on delivery,paid,5375.31
+PAY00344,O00344,card,paid,7224.88
+PAY00345,O00345,wallet,paid,4027.07
+PAY00346,O00346,card,paid,4856.27
+PAY00347,O00347,card,paid,3317.58
+PAY00348,O00348,wallet,paid,8714.05
+PAY00349,O00349,cash on delivery,paid,10650.14
+PAY00350,O00350,card,paid,1321.81
+PAY00351,O00351,cash on delivery,paid,160.57
+PAY00352,O00352,cash on delivery,paid,6252.51
+PAY00353,O00353,cash on delivery,paid,5280.07
+PAY00354,O00354,wallet,refunded,2380.79
+PAY00355,O00355,bank transfer,paid,19886.23
+PAY00356,O00356,wallet,paid,2693.54
+PAY00357,O00357,card,paid,3792.12
+PAY00358,O00358,cash on delivery,paid,1946.41
+PAY00359,O00359,bank transfer,paid,4624.22
+PAY00360,O00360,cash on delivery,paid,241.94
+PAY00361,O00361,card,paid,1910.57
+PAY00362,O00362,cash on delivery,paid,14905.13
+PAY00363,O00363,card,paid,193.08
+PAY00364,O00364,cash on delivery,paid,2597.15
+PAY00365,O00365,cash on delivery,paid,3028.46
+PAY00366,O00366,cash on delivery,paid,9171.39
+PAY00367,O00367,card,paid,201.27
+PAY00368,O00368,card,refunded,2402.04
+PAY00369,O00369,card,paid,3335.25
+PAY00370,O00370,cash on delivery,paid,4127.01
+PAY00371,O00371,card,paid,8875.18
+PAY00372,O00372,card,paid,5580.2
+PAY00373,O00373,cash on delivery,paid,3082.03
+PAY00374,O00374,card,paid,2919.2
+PAY00375,O00375,card,paid,1990.73
+PAY00376,O00376,cash on delivery,paid,5568.05
+PAY00377,O00377,cash on delivery,paid,4186.7
+PAY00378,O00378,card,paid,3668.31
+PAY00379,O00379,wallet,paid,2409.28
+PAY00380,O00380,bank transfer,paid,6173.23
+PAY00381,O00381,bank transfer,paid,15061.61
+PAY00382,O00382,card,paid,3773.91
+PAY00383,O00383,card,paid,11151.84
+PAY00384,O00384,bank transfer,refunded,12565.66
+PAY00385,O00385,cash on delivery,failed,1138.59
+PAY00386,O00386,card,paid,13445.13
+PAY00387,O00387,card,paid,10626.9
+PAY00388,O00388,cash on delivery,paid,2939.26
+PAY00389,O00389,cash on delivery,paid,172.83
+PAY00390,O00390,wallet,paid,3152.41
+PAY00391,O00391,card,paid,6300.09
+PAY00392,O00392,cash on delivery,paid,722.91
+PAY00393,O00393,cash on delivery,paid,245.31
+PAY00394,O00394,card,paid,1466.72
+PAY00395,O00395,wallet,paid,1732.06
+PAY00396,O00396,cash on delivery,refunded,4405.65
+PAY00397,O00397,cash on delivery,paid,939.58
+PAY00398,O00398,cash on delivery,paid,624.75
+PAY00399,O00399,card,paid,3146.81
+PAY00400,O00400,cash on delivery,paid,4357.35
+PAY00401,O00401,wallet,paid,3196.13
+PAY00402,O00402,card,paid,19290.01
+PAY00403,O00403,cash on delivery,paid,17562.42
+PAY00404,O00404,cash on delivery,paid,182.95
+PAY00405,O00405,bank transfer,paid,2286.91
+PAY00406,O00406,card,paid,3558.55
+PAY00407,O00407,bank transfer,paid,705.35
+PAY00408,O00408,cash on delivery,paid,7909.74
+PAY00409,O00409,cash on delivery,paid,3699.25
+PAY00410,O00410,cash on delivery,paid,1681.0
+PAY00411,O00411,card,paid,4223.5
+PAY00412,O00412,cash on delivery,paid,7809.02
+PAY00413,O00413,bank transfer,paid,2778.03
+PAY00414,O00414,wallet,paid,6433.22
+PAY00415,O00415,cash on delivery,paid,1394.57
+PAY00416,O00416,card,paid,85.54
+PAY00417,O00417,cash on delivery,paid,604.3
+PAY00418,O00418,bank transfer,paid,3863.34
+PAY00419,O00419,card,paid,3495.37
+PAY00420,O00420,card,paid,1670.81
+PAY00421,O00421,card,paid,1607.85
+PAY00422,O00422,cash on delivery,paid,642.49
+PAY00423,O00423,card,paid,3601.87
+PAY00424,O00424,card,paid,2536.9
+PAY00425,O00425,card,paid,584.12
+PAY00426,O00426,cash on delivery,paid,2298.19
+PAY00427,O00427,cash on delivery,paid,1912.25
+PAY00428,O00428,cash on delivery,paid,6071.21
+PAY00429,O00429,card,paid,3347.34
+PAY00430,O00430,card,refunded,4115.3
+PAY00431,O00431,cash on delivery,paid,5622.65
+PAY00432,O00432,card,paid,3897.43
+PAY00433,O00433,card,paid,3203.27
+PAY00434,O00434,wallet,paid,19906.44
+PAY00435,O00435,cash on delivery,paid,7369.16
+PAY00436,O00436,cash on delivery,paid,2317.28
+PAY00437,O00437,card,paid,9770.86
+PAY00438,O00438,cash on delivery,paid,8477.01
+PAY00439,O00439,cash on delivery,paid,10610.25
+PAY00440,O00440,cash on delivery,paid,10421.09
+PAY00441,O00441,card,paid,16712.97
+PAY00442,O00442,cash on delivery,paid,505.36
+PAY00443,O00443,bank transfer,paid,3590.56
+PAY00444,O00444,card,paid,1594.1
+PAY00445,O00445,cash on delivery,paid,2416.49
+PAY00446,O00446,cash on delivery,paid,3177.96
+PAY00447,O00447,card,paid,3241.3
+PAY00448,O00448,card,paid,1015.34
+PAY00449,O00449,card,paid,14508.4
+PAY00450,O00450,wallet,paid,19239.64
+PAY00451,O00451,wallet,refunded,4496.74
+PAY00452,O00452,card,paid,1736.97
+PAY00453,O00453,cash on delivery,paid,25064.38
+PAY00454,O00454,wallet,paid,4116.12
+PAY00455,O00455,cash on delivery,paid,8922.7
+PAY00456,O00456,card,paid,1229.76
+PAY00457,O00457,card,paid,1265.8
+PAY00458,O00458,card,paid,187.76
+PAY00459,O00459,card,paid,4980.7
+PAY00460,O00460,card,paid,8620.73
+PAY00461,O00461,card,refunded,5253.94
+PAY00462,O00462,cash on delivery,paid,3342.34
+PAY00463,O00463,card,paid,1358.77
+PAY00464,O00464,card,paid,7338.38
+PAY00465,O00465,card,paid,944.58
+PAY00466,O00466,card,paid,10982.42
+PAY00467,O00467,card,paid,6724.66
+PAY00468,O00468,bank transfer,paid,9231.92
+PAY00469,O00469,card,paid,8273.68
+PAY00470,O00470,cash on delivery,paid,6797.91
+PAY00471,O00471,wallet,paid,2545.02
+PAY00472,O00472,cash on delivery,paid,3645.31
+PAY00473,O00473,bank transfer,failed,388.32
+PAY00474,O00474,wallet,paid,272.77
+PAY00475,O00475,bank transfer,paid,1835.41
+PAY00476,O00476,bank transfer,paid,141.06
+PAY00477,O00477,card,paid,1525.05
+PAY00478,O00478,cash on delivery,paid,2741.42
+PAY00479,O00479,cash on delivery,paid,682.22
+PAY00480,O00480,cash on delivery,paid,1009.56
+PAY00481,O00481,cash on delivery,paid,186.5
+PAY00482,O00482,cash on delivery,paid,4499.01
+PAY00483,O00483,card,paid,20109.49
+PAY00484,O00484,card,paid,999.57
+PAY00485,O00485,card,paid,14348.77
+PAY00486,O00486,card,paid,15819.18
+PAY00487,O00487,cash on delivery,paid,3225.89
+PAY00488,O00488,card,paid,6671.62
+PAY00489,O00489,cash on delivery,paid,12131.79
+PAY00490,O00490,card,paid,2553.42
+PAY00491,O00491,cash on delivery,paid,5728.57
+PAY00492,O00492,cash on delivery,paid,6601.81
+PAY00493,O00493,bank transfer,paid,6250.69
+PAY00494,O00494,wallet,paid,14800.41
+PAY00495,O00495,card,paid,2339.64
+PAY00496,O00496,bank transfer,paid,6727.39
+PAY00497,O00497,cash on delivery,paid,3781.13
+PAY00498,O00498,card,paid,13389.66
+PAY00499,O00499,wallet,paid,6063.83
+PAY00500,O00500,card,paid,3960.34
+PAY00501,O00501,card,paid,1808.25
+PAY00502,O00502,card,paid,6590.56
+PAY00503,O00503,wallet,paid,4049.62
+PAY00504,O00504,wallet,paid,11125.88
+PAY00505,O00505,wallet,paid,6214.17
+PAY00506,O00506,cash on delivery,paid,989.57
+PAY00507,O00507,bank transfer,paid,7680.73
+PAY00508,O00508,card,paid,706.65
+PAY00509,O00509,bank transfer,paid,1745.04
+PAY00510,O00510,card,paid,8457.89
+PAY00511,O00511,card,paid,8135.23
+PAY00512,O00512,cash on delivery,paid,2964.65
+PAY00513,O00513,card,paid,2437.25
+PAY00514,O00514,card,failed,2356.85
+PAY00515,O00515,cash on delivery,paid,5153.07
+PAY00516,O00516,wallet,paid,9138.79
+PAY00517,O00517,card,paid,4038.44
+PAY00518,O00518,card,paid,484.08
+PAY00519,O00519,bank transfer,failed,706.14
+PAY00520,O00520,cash on delivery,paid,3956.33
+PAY00521,O00521,card,paid,1015.34
+PAY00522,O00522,cash on delivery,refunded,10451.6
+PAY00523,O00523,card,paid,3020.56
+PAY00524,O00524,cash on delivery,paid,2517.93
+PAY00525,O00525,cash on delivery,paid,3802.32
+PAY00526,O00526,card,paid,1598.17
+PAY00527,O00527,cash on delivery,paid,240.93
+PAY00528,O00528,cash on delivery,refunded,1985.8
+PAY00529,O00529,card,paid,2803.03
+PAY00530,O00530,cash on delivery,paid,4163.74
+PAY00531,O00531,card,paid,31950.66
+PAY00532,O00532,wallet,failed,13253.23
+PAY00533,O00533,cash on delivery,paid,6578.11
+PAY00534,O00534,card,failed,5230.65
+PAY00535,O00535,card,paid,9785.56
+PAY00536,O00536,bank transfer,paid,17179.33
+PAY00537,O00537,cash on delivery,paid,7036.08
+PAY00538,O00538,cash on delivery,paid,6601.1
+PAY00539,O00539,cash on delivery,paid,6407.31
+PAY00540,O00540,cash on delivery,paid,4647.62
+PAY00541,O00541,bank transfer,paid,1165.03
+PAY00542,O00542,cash on delivery,paid,426.57
+PAY00543,O00543,cash on delivery,paid,3178.24
+PAY00544,O00544,cash on delivery,paid,1488.59
+PAY00545,O00545,wallet,paid,3258.92
+PAY00546,O00546,cash on delivery,paid,16087.56
+PAY00547,O00547,wallet,paid,563.24
+PAY00548,O00548,card,paid,2137.58
+PAY00549,O00549,bank transfer,paid,734.42
+PAY00550,O00550,card,paid,2432.69
+PAY00551,O00551,card,paid,452.81
+PAY00552,O00552,card,paid,3328.92
+PAY00553,O00553,cash on delivery,paid,10442.23
+PAY00554,O00554,cash on delivery,paid,1931.97
+PAY00555,O00555,card,paid,15081.29
+PAY00556,O00556,cash on delivery,paid,363.91
+PAY00557,O00557,bank transfer,refunded,783.27
+PAY00558,O00558,card,paid,1420.68
+PAY00559,O00559,cash on delivery,paid,2852.96
+PAY00560,O00560,cash on delivery,paid,1047.48
+PAY00561,O00561,cash on delivery,paid,1734.76
+PAY00562,O00562,wallet,paid,5739.9
+PAY00563,O00563,card,paid,808.39
+PAY00564,O00564,card,paid,403.95
+PAY00565,O00565,bank transfer,paid,18133.31
+PAY00566,O00566,card,paid,2893.58
+PAY00567,O00567,cash on delivery,paid,3668.41
+PAY00568,O00568,card,paid,4669.13
+PAY00569,O00569,card,paid,937.61
+PAY00570,O00570,bank transfer,paid,2133.35
+PAY00571,O00571,bank transfer,paid,5125.79
+PAY00572,O00572,wallet,paid,1009.56
+PAY00573,O00573,cash on delivery,paid,4790.6
+PAY00574,O00574,card,paid,1682.28
+PAY00575,O00575,wallet,paid,1482.56
+PAY00576,O00576,cash on delivery,paid,9363.46
+PAY00577,O00577,cash on delivery,paid,445.26
+PAY00578,O00578,card,refunded,9186.27
+PAY00579,O00579,card,paid,91.54
+PAY00580,O00580,card,paid,1285.8
+PAY00581,O00581,cash on delivery,paid,12291.49
+PAY00582,O00582,bank transfer,paid,3074.28
+PAY00583,O00583,cash on delivery,paid,3491.38
+PAY00584,O00584,wallet,paid,1728.2
+PAY00585,O00585,cash on delivery,paid,211.57
+PAY00586,O00586,cash on delivery,paid,2579.93
+PAY00587,O00587,cash on delivery,paid,1950.23
+PAY00588,O00588,card,paid,6249.61
+PAY00589,O00589,card,paid,6741.87
+PAY00590,O00590,bank transfer,paid,97.99
+PAY00591,O00591,card,failed,3459.69
+PAY00592,O00592,cash on delivery,paid,746.42
+PAY00593,O00593,bank transfer,paid,825.33
+PAY00594,O00594,bank transfer,paid,3632.86
+PAY00595,O00595,cash on delivery,paid,4054.31
+PAY00596,O00596,cash on delivery,refunded,2863.3
+PAY00597,O00597,cash on delivery,paid,12280.74
+PAY00598,O00598,card,paid,2890.43
+PAY00599,O00599,bank transfer,paid,5161.71
+PAY00600,O00600,cash on delivery,paid,158.72
+PAY00601,O00601,cash on delivery,paid,25190.3
+PAY00602,O00602,cash on delivery,paid,6447.04
+PAY00603,O00603,cash on delivery,paid,536.2
+PAY00604,O00604,cash on delivery,refunded,1031.48
+PAY00605,O00605,bank transfer,paid,3330.55
+PAY00606,O00606,cash on delivery,paid,267.77
+PAY00607,O00607,card,paid,2619.23
+PAY00608,O00608,card,paid,9469.71
+PAY00609,O00609,bank transfer,paid,18212.49
+PAY00610,O00610,card,paid,338.54
+PAY00611,O00611,cash on delivery,paid,7428.92
+PAY00612,O00612,card,paid,1070.54
+PAY00613,O00613,card,paid,10403.59
+PAY00614,O00614,card,refunded,88.02
+PAY00615,O00615,card,paid,3454.51
+PAY00616,O00616,wallet,paid,4525.15
+PAY00617,O00617,wallet,paid,5718.92
+PAY00618,O00618,cash on delivery,paid,3795.82
+PAY00619,O00619,cash on delivery,paid,913.81
+PAY00620,O00620,card,paid,3759.87
+PAY00621,O00621,cash on delivery,paid,551.33
+PAY00622,O00622,card,paid,1761.9
+PAY00623,O00623,card,paid,2410.89
+PAY00624,O00624,cash on delivery,paid,2895.06
+PAY00625,O00625,card,paid,195.8
+PAY00626,O00626,card,paid,1477.84
+PAY00627,O00627,cash on delivery,paid,4490.16
+PAY00628,O00628,card,paid,14973.73
+PAY00629,O00629,wallet,paid,6250.05
+PAY00630,O00630,cash on delivery,paid,460.24
+PAY00631,O00631,bank transfer,paid,2255.82
+PAY00632,O00632,cash on delivery,paid,288.8
+PAY00633,O00633,card,paid,6447.84
+PAY00634,O00634,wallet,paid,2083.35
+PAY00635,O00635,card,paid,474.91
+PAY00636,O00636,card,paid,4674.15
+PAY00637,O00637,cash on delivery,paid,20676.95
+PAY00638,O00638,wallet,paid,15915.0
+PAY00639,O00639,card,paid,3833.1
+PAY00640,O00640,bank transfer,paid,1126.77
+PAY00641,O00641,cash on delivery,paid,432.03
+PAY00642,O00642,cash on delivery,paid,1836.26
+PAY00643,O00643,card,paid,2943.86
+PAY00644,O00644,card,paid,293.01
+PAY00645,O00645,cash on delivery,paid,635.11
+PAY00646,O00646,card,failed,3030.22
+PAY00647,O00647,card,paid,463.44
+PAY00648,O00648,card,paid,11958.97
+PAY00649,O00649,wallet,paid,2818.59
+PAY00650,O00650,card,paid,7970.68
+PAY00651,O00651,cash on delivery,paid,2296.1
+PAY00652,O00652,card,paid,14158.52
+PAY00653,O00653,bank transfer,paid,174.47
+PAY00654,O00654,cash on delivery,paid,5205.52
+PAY00655,O00655,card,paid,15473.52
+PAY00656,O00656,cash on delivery,paid,3723.99
+PAY00657,O00657,cash on delivery,paid,737.15
+PAY00658,O00658,cash on delivery,paid,17633.24
+PAY00659,O00659,card,paid,5627.61
+PAY00660,O00660,cash on delivery,paid,3520.37
+PAY00661,O00661,card,paid,14114.38
+PAY00662,O00662,bank transfer,paid,1294.74
+PAY00663,O00663,bank transfer,paid,861.43
+PAY00664,O00664,card,paid,3315.55
+PAY00665,O00665,card,refunded,3850.86
+PAY00666,O00666,card,paid,6299.53
+PAY00667,O00667,cash on delivery,paid,1436.98
+PAY00668,O00668,cash on delivery,paid,257.22
+PAY00669,O00669,bank transfer,paid,7877.28
+PAY00670,O00670,card,paid,4065.41
+PAY00671,O00671,cash on delivery,paid,2206.24
+PAY00672,O00672,bank transfer,paid,1897.8
+PAY00673,O00673,cash on delivery,paid,7521.87
+PAY00674,O00674,cash on delivery,paid,4176.2
+PAY00675,O00675,cash on delivery,paid,6631.9
+PAY00676,O00676,card,paid,6604.37
+PAY00677,O00677,card,paid,4739.73
+PAY00678,O00678,card,paid,17251.54
+PAY00679,O00679,card,paid,1641.47
+PAY00680,O00680,card,paid,6188.35
+PAY00681,O00681,cash on delivery,paid,5765.26
+PAY00682,O00682,card,paid,6434.29
+PAY00683,O00683,cash on delivery,paid,16057.12
+PAY00684,O00684,card,paid,1796.22
+PAY00685,O00685,wallet,paid,3845.14
+PAY00686,O00686,card,failed,5563.49
+PAY00687,O00687,card,paid,896.04
+PAY00688,O00688,wallet,failed,321.82
+PAY00689,O00689,card,paid,6382.47
+PAY00690,O00690,card,paid,3792.32
+PAY00691,O00691,cash on delivery,paid,9874.07
+PAY00692,O00692,cash on delivery,paid,7810.04
+PAY00693,O00693,bank transfer,paid,6942.52
+PAY00694,O00694,card,paid,1035.34
+PAY00695,O00695,card,paid,10098.26
+PAY00696,O00696,cash on delivery,paid,2588.04
+PAY00697,O00697,card,paid,3322.05
+PAY00698,O00698,card,paid,261.62
+PAY00699,O00699,cash on delivery,refunded,18971.37
+PAY00700,O00700,cash on delivery,paid,2336.41
+PAY00701,O00701,card,paid,7672.84
+PAY00702,O00702,cash on delivery,paid,6120.22
+PAY00703,O00703,card,paid,1250.22
+PAY00704,O00704,wallet,paid,1320.19
+PAY00705,O00705,wallet,paid,3517.74
+PAY00706,O00706,cash on delivery,paid,6607.24
+PAY00707,O00707,wallet,paid,180.08
+PAY00708,O00708,bank transfer,paid,222.98
+PAY00709,O00709,cash on delivery,paid,3250.64
+PAY00710,O00710,cash on delivery,paid,10790.54
+PAY00711,O00711,cash on delivery,paid,3506.26
+PAY00712,O00712,card,paid,1835.54
+PAY00713,O00713,cash on delivery,refunded,6458.8
+PAY00714,O00714,cash on delivery,paid,4838.29
+PAY00715,O00715,cash on delivery,paid,4512.21
+PAY00716,O00716,card,paid,8685.06
+PAY00717,O00717,wallet,paid,3341.81
+PAY00718,O00718,card,paid,248.36
+PAY00719,O00719,card,paid,3633.51
+PAY00720,O00720,card,paid,6409.29
+PAY00721,O00721,card,paid,7433.92
+PAY00722,O00722,cash on delivery,paid,110.64
+PAY00723,O00723,bank transfer,paid,4893.59
+PAY00724,O00724,card,paid,7293.06
+PAY00725,O00725,card,paid,970.99
+PAY00726,O00726,cash on delivery,paid,466.21
+PAY00727,O00727,bank transfer,paid,3420.68
+PAY00728,O00728,wallet,paid,3158.34
+PAY00729,O00729,card,paid,7564.24
+PAY00730,O00730,cash on delivery,paid,8677.23
+PAY00731,O00731,cash on delivery,paid,3533.04
+PAY00732,O00732,card,paid,1060.24
+PAY00733,O00733,card,paid,2506.66
+PAY00734,O00734,card,paid,3824.9
+PAY00735,O00735,bank transfer,paid,2549.3
+PAY00736,O00736,wallet,paid,618.05
+PAY00737,O00737,card,paid,20727.88
+PAY00738,O00738,card,paid,7071.04
+PAY00739,O00739,card,paid,5585.2
+PAY00740,O00740,wallet,paid,2061.57
+PAY00741,O00741,cash on delivery,paid,1590.62
+PAY00742,O00742,card,refunded,3890.42
+PAY00743,O00743,card,paid,15643.96
+PAY00744,O00744,cash on delivery,paid,13800.28
+PAY00745,O00745,cash on delivery,failed,7913.38
+PAY00746,O00746,cash on delivery,paid,2225.31
+PAY00747,O00747,cash on delivery,paid,2874.02
+PAY00748,O00748,cash on delivery,paid,1556.51
+PAY00749,O00749,cash on delivery,paid,1324.97
+PAY00750,O00750,card,paid,9837.77
+PAY00751,O00751,cash on delivery,paid,15506.31
+PAY00752,O00752,cash on delivery,paid,4826.69
+PAY00753,O00753,card,paid,17638.41
+PAY00754,O00754,card,paid,3717.3
+PAY00755,O00755,card,refunded,3003.33
+PAY00756,O00756,wallet,refunded,6139.98
+PAY00757,O00757,card,paid,2532.82
+PAY00758,O00758,cash on delivery,paid,1305.14
+PAY00759,O00759,cash on delivery,paid,6042.4
+PAY00760,O00760,cash on delivery,refunded,10786.08
+PAY00761,O00761,card,paid,167.87
+PAY00762,O00762,card,paid,10190.42
+PAY00763,O00763,cash on delivery,paid,1310.19
+PAY00764,O00764,card,paid,572.87
+PAY00765,O00765,cash on delivery,paid,2011.53
+PAY00766,O00766,card,paid,9088.68
+PAY00767,O00767,card,refunded,2258.84
+PAY00768,O00768,card,paid,4040.97
+PAY00769,O00769,cash on delivery,refunded,12967.64
+PAY00770,O00770,card,paid,3391.67
+PAY00771,O00771,cash on delivery,paid,923.71
+PAY00772,O00772,wallet,paid,8024.14
+PAY00773,O00773,wallet,refunded,2693.54
+PAY00774,O00774,bank transfer,paid,1564.05
+PAY00775,O00775,wallet,paid,697.45
+PAY00776,O00776,cash on delivery,paid,1942.57
+PAY00777,O00777,card,paid,9209.23
+PAY00778,O00778,cash on delivery,paid,2013.64
+PAY00779,O00779,cash on delivery,paid,10888.29
+PAY00780,O00780,card,paid,5138.74
+PAY00781,O00781,card,refunded,8216.51
+PAY00782,O00782,card,paid,2080.68
+PAY00783,O00783,card,paid,10025.36
+PAY00784,O00784,card,paid,2972.42
+PAY00785,O00785,cash on delivery,refunded,674.28
+PAY00786,O00786,cash on delivery,paid,13603.69
+PAY00787,O00787,card,paid,2258.75
+PAY00788,O00788,cash on delivery,paid,1685.81
+PAY00789,O00789,cash on delivery,paid,12696.05
+PAY00790,O00790,card,paid,1971.55
+PAY00791,O00791,card,paid,3891.75
+PAY00792,O00792,card,paid,1265.1
+PAY00793,O00793,cash on delivery,paid,1287.83
+PAY00794,O00794,cash on delivery,paid,3506.86
+PAY00795,O00795,cash on delivery,paid,5581.93
+PAY00796,O00796,bank transfer,refunded,10976.33
+PAY00797,O00797,card,paid,4757.67
+PAY00798,O00798,bank transfer,paid,1143.95
+PAY00799,O00799,card,paid,7816.93
+PAY00800,O00800,cash on delivery,paid,4741.78
+PAY00801,O00801,cash on delivery,paid,437.57
+PAY00802,O00802,card,paid,3092.03
+PAY00803,O00803,card,paid,1815.54
+PAY00804,O00804,wallet,paid,3411.4
+PAY00805,O00805,cash on delivery,paid,259.92
+PAY00806,O00806,bank transfer,paid,4767.67
+PAY00807,O00807,cash on delivery,paid,7513.46
+PAY00808,O00808,cash on delivery,paid,1017.39
+PAY00809,O00809,cash on delivery,paid,2540.44
+PAY00810,O00810,card,paid,3182.42
+PAY00811,O00811,card,paid,3040.56
+PAY00812,O00812,wallet,paid,2484.62
+PAY00813,O00813,cash on delivery,paid,8720.26
+PAY00814,O00814,cash on delivery,paid,883.73
+PAY00815,O00815,cash on delivery,paid,13510.04
+PAY00816,O00816,cash on delivery,paid,211.73
+PAY00817,O00817,wallet,paid,5505.82
+PAY00818,O00818,card,paid,3327.26
+PAY00819,O00819,cash on delivery,paid,3666.66
+PAY00820,O00820,cash on delivery,paid,5060.27
+PAY00821,O00821,wallet,paid,12567.6
+PAY00822,O00822,card,paid,6556.17
+PAY00823,O00823,cash on delivery,paid,1905.49
+PAY00824,O00824,wallet,paid,6742.64
+PAY00825,O00825,cash on delivery,paid,530.04
+PAY00826,O00826,cash on delivery,paid,9223.52
+PAY00827,O00827,cash on delivery,paid,24424.84
+PAY00828,O00828,cash on delivery,paid,5992.02
+PAY00829,O00829,cash on delivery,paid,10798.39
+PAY00830,O00830,card,paid,1191.08
+PAY00831,O00831,card,paid,1917.4
+PAY00832,O00832,card,paid,3348.14
+PAY00833,O00833,card,paid,3052.7
+PAY00834,O00834,cash on delivery,paid,15119.77
+PAY00835,O00835,card,paid,768.16
+PAY00836,O00836,card,paid,10026.5
+PAY00837,O00837,card,paid,11735.41
+PAY00838,O00838,cash on delivery,paid,3528.42
+PAY00839,O00839,cash on delivery,paid,3210.2
+PAY00840,O00840,bank transfer,paid,11009.06
+PAY00841,O00841,wallet,paid,576.33
+PAY00842,O00842,card,paid,3457.89
+PAY00843,O00843,cash on delivery,paid,4598.47
+PAY00844,O00844,cash on delivery,failed,4612.91
+PAY00845,O00845,card,paid,3623.51
+PAY00846,O00846,cash on delivery,paid,13368.77
+PAY00847,O00847,cash on delivery,refunded,175.78
+PAY00848,O00848,cash on delivery,paid,7818.88
+PAY00849,O00849,cash on delivery,paid,1707.28
+PAY00850,O00850,card,paid,655.71
+PAY00851,O00851,cash on delivery,failed,80.77
+PAY00852,O00852,bank transfer,paid,3171.13
+PAY00853,O00853,card,paid,677.88
+PAY00854,O00854,card,paid,3125.07
+PAY00855,O00855,cash on delivery,paid,6625.05
+PAY00856,O00856,wallet,paid,16144.5
+PAY00857,O00857,cash on delivery,paid,7337.81
+PAY00858,O00858,card,paid,1765.82
+PAY00859,O00859,bank transfer,paid,6413.54
+PAY00860,O00860,cash on delivery,paid,16343.2
+PAY00861,O00861,card,paid,8692.78
+PAY00862,O00862,card,paid,7407.62
+PAY00863,O00863,card,paid,882.3
+PAY00864,O00864,cash on delivery,paid,8290.48
+PAY00865,O00865,cash on delivery,paid,2145.03
+PAY00866,O00866,cash on delivery,paid,5674.87
+PAY00867,O00867,card,paid,1519.34
+PAY00868,O00868,card,paid,11211.02
+PAY00869,O00869,cash on delivery,paid,7605.7
+PAY00870,O00870,cash on delivery,paid,5481.02
+PAY00871,O00871,cash on delivery,paid,19854.05
+PAY00872,O00872,cash on delivery,paid,1505.55
+PAY00873,O00873,card,paid,5456.02
+PAY00874,O00874,cash on delivery,paid,16963.26
+PAY00875,O00875,wallet,paid,3523.04
+PAY00876,O00876,cash on delivery,paid,2983.07
+PAY00877,O00877,card,paid,6153.88
+PAY00878,O00878,card,paid,1286.94
+PAY00879,O00879,bank transfer,paid,7055.23
+PAY00880,O00880,card,refunded,257.84
+PAY00881,O00881,card,paid,15854.26
+PAY00882,O00882,card,paid,1887.25
+PAY00883,O00883,cash on delivery,paid,14546.07
+PAY00884,O00884,cash on delivery,refunded,3406.86
+PAY00885,O00885,bank transfer,paid,1936.5
+PAY00886,O00886,cash on delivery,paid,11535.07
+PAY00887,O00887,cash on delivery,paid,2423.7
+PAY00888,O00888,cash on delivery,paid,8428.58
+PAY00889,O00889,bank transfer,paid,6466.56
+PAY00890,O00890,bank transfer,paid,217.26
+PAY00891,O00891,card,paid,962.26
+PAY00892,O00892,cash on delivery,paid,4072.71
+PAY00893,O00893,card,paid,7037.86
+PAY00894,O00894,card,paid,1303.95
+PAY00895,O00895,cash on delivery,paid,1726.38
+PAY00896,O00896,bank transfer,paid,16329.94
+PAY00897,O00897,cash on delivery,paid,2178.3
+PAY00898,O00898,card,paid,2163.15
+PAY00899,O00899,cash on delivery,paid,5628.94
+PAY00900,O00900,bank transfer,paid,4226.78
+PAY00901,O00901,card,paid,1131.43
+PAY00902,O00902,cash on delivery,paid,2313.4
+PAY00903,O00903,cash on delivery,paid,454.91
+PAY00904,O00904,cash on delivery,paid,7072.19
+PAY00905,O00905,card,paid,4649.13
+PAY00906,O00906,cash on delivery,paid,2231.42
+PAY00907,O00907,card,paid,925.76
+PAY00908,O00908,bank transfer,paid,2040.65
+PAY00909,O00909,card,paid,255.29
+PAY00910,O00910,bank transfer,paid,3901.51
+PAY00911,O00911,bank transfer,refunded,4985.45
+PAY00912,O00912,cash on delivery,refunded,9089.58
+PAY00913,O00913,cash on delivery,paid,3830.81
+PAY00914,O00914,cash on delivery,paid,139.73
+PAY00915,O00915,card,paid,865.84
+PAY00916,O00916,card,paid,1587.34
+PAY00917,O00917,cash on delivery,paid,1784.25
+PAY00918,O00918,card,failed,10738.09
+PAY00919,O00919,card,refunded,4204.41
+PAY00920,O00920,bank transfer,paid,5333.58
+PAY00921,O00921,bank transfer,paid,4865.29
+PAY00922,O00922,cash on delivery,paid,646.43
+PAY00923,O00923,card,paid,6556.6
+PAY00924,O00924,card,paid,211.04
+PAY00925,O00925,card,paid,6547.39
+PAY00926,O00926,cash on delivery,paid,2342.86
+PAY00927,O00927,card,paid,2832.48
+PAY00928,O00928,card,paid,2944.2
+PAY00929,O00929,cash on delivery,paid,4070.97
+PAY00930,O00930,card,paid,3698.31
+PAY00931,O00931,card,paid,2555.02
+PAY00932,O00932,wallet,paid,14519.36
+PAY00933,O00933,cash on delivery,paid,105.54
+PAY00934,O00934,cash on delivery,paid,12030.22
+PAY00935,O00935,card,paid,1660.36
+PAY00936,O00936,card,paid,725.86
+PAY00937,O00937,wallet,paid,3409.13
+PAY00938,O00938,cash on delivery,paid,11321.97
+PAY00939,O00939,cash on delivery,paid,5086.74
+PAY00940,O00940,cash on delivery,paid,8986.7
+PAY00941,O00941,cash on delivery,paid,1593.71
+PAY00942,O00942,wallet,paid,7702.36
+PAY00943,O00943,cash on delivery,paid,1731.41
+PAY00944,O00944,card,paid,3140.07
+PAY00945,O00945,wallet,paid,1320.49
+PAY00946,O00946,wallet,paid,7792.05
+PAY00947,O00947,cash on delivery,paid,9127.84
+PAY00948,O00948,cash on delivery,paid,3813.43
+PAY00949,O00949,card,paid,12023.19
+PAY00950,O00950,card,paid,2745.13
+PAY00951,O00951,cash on delivery,paid,13055.56
+PAY00952,O00952,card,paid,171.63
+PAY00953,O00953,card,paid,6645.1
+PAY00954,O00954,card,paid,1638.36
+PAY00955,O00955,card,paid,4463.28
+PAY00956,O00956,cash on delivery,paid,191.24
+PAY00957,O00957,bank transfer,paid,9431.75
+PAY00958,O00958,cash on delivery,paid,7552.86
+PAY00959,O00959,card,paid,3846.34
+PAY00960,O00960,card,paid,8776.08
+PAY00961,O00961,wallet,paid,5565.92
+PAY00962,O00962,wallet,paid,932.07
+PAY00963,O00963,bank transfer,refunded,18542.02
+PAY00964,O00964,card,paid,7519.74
+PAY00965,O00965,cash on delivery,paid,1449.94
+PAY00966,O00966,cash on delivery,paid,232.98
+PAY00967,O00967,card,refunded,14364.05
+PAY00968,O00968,wallet,paid,7815.76
+PAY00969,O00969,card,paid,17609.77
+PAY00970,O00970,card,paid,2215.8
+PAY00971,O00971,card,paid,495.54
+PAY00972,O00972,card,paid,24478.1
+PAY00973,O00973,cash on delivery,paid,1798.22
+PAY00974,O00974,cash on delivery,paid,2390.79
+PAY00975,O00975,card,refunded,12056.95
+PAY00976,O00976,bank transfer,refunded,17177.53
+PAY00977,O00977,card,paid,2172.58
+PAY00978,O00978,cash on delivery,paid,17287.58
+PAY00979,O00979,cash on delivery,paid,1019.56
+PAY00980,O00980,cash on delivery,paid,4118.83
+PAY00981,O00981,card,paid,3804.79
+PAY00982,O00982,cash on delivery,paid,4727.32
+PAY00983,O00983,card,paid,16722.76
+PAY00984,O00984,cash on delivery,paid,4381.59
+PAY00985,O00985,cash on delivery,paid,1021.55
+PAY00986,O00986,cash on delivery,paid,2270.08
+PAY00987,O00987,card,paid,2679.73
+PAY00988,O00988,bank transfer,paid,776.12
+PAY00989,O00989,bank transfer,paid,232.98
+PAY00990,O00990,wallet,paid,1086.83
+PAY00991,O00991,cash on delivery,paid,917.13
+PAY00992,O00992,cash on delivery,paid,8973.01
+PAY00993,O00993,cash on delivery,paid,11738.28
+PAY00994,O00994,wallet,paid,13589.82
+PAY00995,O00995,bank transfer,paid,453.6
+PAY00996,O00996,cash on delivery,refunded,2679.42
+PAY00997,O00997,cash on delivery,paid,4255.98
+PAY00998,O00998,bank transfer,paid,3564.31
+PAY00999,O00999,bank transfer,paid,549.9
+PAY01000,O01000,cash on delivery,paid,1951.63
+PAY01001,O01001,card,paid,1064.11
+PAY01002,O01002,cash on delivery,paid,3068.05
+PAY01003,O01003,cash on delivery,paid,4043.44
+PAY01004,O01004,cash on delivery,paid,5393.05
+PAY01005,O01005,bank transfer,paid,134.46
+PAY01006,O01006,cash on delivery,refunded,1674.54
+PAY01007,O01007,cash on delivery,paid,811.81
+PAY01008,O01008,cash on delivery,paid,1540.54
+PAY01009,O01009,card,paid,14213.04
+PAY01010,O01010,cash on delivery,paid,11336.36
+PAY01011,O01011,card,paid,3024.08
+PAY01012,O01012,bank transfer,paid,510.98
+PAY01013,O01013,card,paid,399.19
+PAY01014,O01014,cash on delivery,paid,3082.61
+PAY01015,O01015,cash on delivery,paid,134.46
+PAY01016,O01016,card,paid,12446.41
+PAY01017,O01017,cash on delivery,paid,739.81
+PAY01018,O01018,card,paid,3847.86
+PAY01019,O01019,card,paid,1452.89
+PAY01020,O01020,card,paid,215.93
+PAY01021,O01021,card,failed,3074.99
+PAY01022,O01022,card,paid,120.64
+PAY01023,O01023,card,paid,12551.09
+PAY01024,O01024,bank transfer,failed,433.87
+PAY01025,O01025,cash on delivery,refunded,1120.75
+PAY01026,O01026,card,paid,2612.62
+PAY01027,O01027,cash on delivery,paid,12642.91
+PAY01028,O01028,wallet,paid,3072.03
+PAY01029,O01029,cash on delivery,paid,4632.61
+PAY01030,O01030,wallet,paid,1244.07
+PAY01031,O01031,card,paid,5006.17
+PAY01032,O01032,card,paid,11897.68
+PAY01033,O01033,card,paid,670.26
+PAY01034,O01034,card,paid,4891.28
+PAY01035,O01035,cash on delivery,paid,9187.63
+PAY01036,O01036,wallet,paid,876.14
+PAY01037,O01037,card,paid,198.72
+PAY01038,O01038,cash on delivery,paid,891.04
+PAY01039,O01039,cash on delivery,refunded,3797.32
+PAY01040,O01040,cash on delivery,paid,929.61
+PAY01041,O01041,card,paid,8052.3
+PAY01042,O01042,card,paid,5450.0
+PAY01043,O01043,card,paid,2949.65
+PAY01044,O01044,bank transfer,paid,376.57
+PAY01045,O01045,card,paid,10176.27
+PAY01046,O01046,wallet,paid,8090.68
+PAY01047,O01047,cash on delivery,paid,2956.31
+PAY01048,O01048,wallet,paid,2753.03
+PAY01049,O01049,cash on delivery,refunded,1064.15
+PAY01050,O01050,card,paid,11731.24
+PAY01051,O01051,card,paid,1251.64
+PAY01052,O01052,card,refunded,2535.19
+PAY01053,O01053,cash on delivery,paid,2261.51
+PAY01054,O01054,cash on delivery,paid,3500.2
+PAY01055,O01055,cash on delivery,paid,1075.54
+PAY01056,O01056,card,paid,1538.59
+PAY01057,O01057,bank transfer,paid,289.34
+PAY01058,O01058,cash on delivery,paid,3685.13
+PAY01059,O01059,cash on delivery,paid,3822.12
+PAY01060,O01060,bank transfer,paid,2554.17
+PAY01061,O01061,card,paid,11694.7
+PAY01062,O01062,card,paid,5451.65
+PAY01063,O01063,bank transfer,paid,3510.4
+PAY01064,O01064,cash on delivery,paid,191.63
+PAY01065,O01065,bank transfer,paid,5638.94
+PAY01066,O01066,wallet,paid,1192.13
+PAY01067,O01067,cash on delivery,paid,9619.09
+PAY01068,O01068,cash on delivery,paid,7737.33
+PAY01069,O01069,cash on delivery,paid,8550.24
+PAY01070,O01070,card,paid,1430.91
+PAY01071,O01071,card,paid,947.22
+PAY01072,O01072,card,paid,3524.98
+PAY01073,O01073,wallet,paid,4435.01
+PAY01074,O01074,cash on delivery,paid,326.82
+PAY01075,O01075,bank transfer,paid,1120.28
+PAY01076,O01076,card,paid,14937.08
+PAY01077,O01077,card,paid,5213.04
+PAY01078,O01078,cash on delivery,paid,4439.85
+PAY01079,O01079,card,refunded,3493.8
+PAY01080,O01080,cash on delivery,paid,4854.21
+PAY01081,O01081,card,paid,7622.63
+PAY01082,O01082,cash on delivery,paid,4888.11
+PAY01083,O01083,card,paid,236.78
+PAY01084,O01084,card,paid,1771.22
+PAY01085,O01085,cash on delivery,failed,5734.21
+PAY01086,O01086,card,paid,8656.3
+PAY01087,O01087,card,paid,2911.92
+PAY01088,O01088,cash on delivery,paid,577.82
+PAY01089,O01089,card,paid,1122.66
+PAY01090,O01090,cash on delivery,paid,1065.54
+PAY01091,O01091,card,paid,1271.97
+PAY01092,O01092,cash on delivery,paid,253.96
+PAY01093,O01093,card,paid,12768.58
+PAY01094,O01094,card,paid,2149.43
+PAY01095,O01095,cash on delivery,paid,1537.22
+PAY01096,O01096,cash on delivery,paid,8602.05
+PAY01097,O01097,wallet,paid,123.09
+PAY01098,O01098,bank transfer,paid,6532.91
+PAY01099,O01099,card,paid,16687.9
+PAY01100,O01100,cash on delivery,paid,2171.07
+PAY01101,O01101,card,paid,2380.08
+PAY01102,O01102,cash on delivery,paid,11514.42
+PAY01103,O01103,card,paid,3627.86
+PAY01104,O01104,card,paid,3173.24
+PAY01105,O01105,wallet,refunded,401.36
+PAY01106,O01106,bank transfer,paid,2480.87
+PAY01107,O01107,card,paid,19923.4
+PAY01108,O01108,cash on delivery,paid,1566.14
+PAY01109,O01109,wallet,paid,17287.53
+PAY01110,O01110,card,paid,2412.04
+PAY01111,O01111,cash on delivery,paid,4651.31
+PAY01112,O01112,card,paid,2665.38
+PAY01113,O01113,cash on delivery,paid,3710.84
+PAY01114,O01114,cash on delivery,paid,6383.14
+PAY01115,O01115,wallet,paid,4553.19
+PAY01116,O01116,cash on delivery,paid,4495.85
+PAY01117,O01117,cash on delivery,paid,8712.61
+PAY01118,O01118,card,paid,466.41
+PAY01119,O01119,cash on delivery,paid,3067.7
+PAY01120,O01120,card,paid,4146.12
+PAY01121,O01121,card,paid,3420.68
+PAY01122,O01122,bank transfer,paid,15812.62
+PAY01123,O01123,cash on delivery,paid,6660.59
+PAY01124,O01124,cash on delivery,paid,713.77
+PAY01125,O01125,cash on delivery,paid,437.83
+PAY01126,O01126,bank transfer,paid,2397.93
+PAY01127,O01127,cash on delivery,paid,9629.09
+PAY01128,O01128,cash on delivery,paid,3136.01
+PAY01129,O01129,card,refunded,21277.21
+PAY01130,O01130,wallet,paid,3028.52
+PAY01131,O01131,cash on delivery,paid,1122.66
+PAY01132,O01132,card,paid,809.29
+PAY01133,O01133,card,paid,2731.54
+PAY01134,O01134,card,paid,3897.43
+PAY01135,O01135,bank transfer,refunded,15971.15
+PAY01136,O01136,cash on delivery,paid,2357.81
+PAY01137,O01137,cash on delivery,paid,2702.25
+PAY01138,O01138,cash on delivery,paid,1384.57
+PAY01139,O01139,card,paid,1883.69
+PAY01140,O01140,cash on delivery,paid,10739.84
+PAY01141,O01141,card,paid,1781.41
+PAY01142,O01142,card,paid,769.72
+PAY01143,O01143,bank transfer,refunded,2624.87
+PAY01144,O01144,card,paid,6780.6
+PAY01145,O01145,card,paid,20725.01
+PAY01146,O01146,cash on delivery,paid,2135.03
+PAY01147,O01147,card,paid,3320.55
+PAY01148,O01148,card,paid,22418.61
+PAY01149,O01149,cash on delivery,paid,5100.76
+PAY01150,O01150,card,paid,3722.3
+PAY01151,O01151,cash on delivery,paid,54.35
+PAY01152,O01152,card,paid,3405.21
+PAY01153,O01153,cash on delivery,paid,1346.66
+PAY01154,O01154,card,paid,3617.86
+PAY01155,O01155,card,paid,2067.89
+PAY01156,O01156,card,paid,2957.42
+PAY01157,O01157,card,paid,13307.17
+PAY01158,O01158,card,paid,4774.08
+PAY01159,O01159,card,paid,3287.59
+PAY01160,O01160,card,paid,1506.51
+PAY01161,O01161,card,paid,3639.57
+PAY01162,O01162,cash on delivery,paid,5469.52
+PAY01163,O01163,bank transfer,paid,2341.41
+PAY01164,O01164,cash on delivery,paid,261.43
+PAY01165,O01165,card,paid,5596.94
+PAY01166,O01166,card,paid,7916.2
+PAY01167,O01167,cash on delivery,paid,1950.15
+PAY01168,O01168,cash on delivery,paid,1613.71
+PAY01169,O01169,wallet,refunded,2257.34
+PAY01170,O01170,cash on delivery,paid,9323.18
+PAY01171,O01171,cash on delivery,paid,562.87
+PAY01172,O01172,wallet,failed,5616.86
+PAY01173,O01173,card,paid,4169.18
+PAY01174,O01174,cash on delivery,paid,567.87
+PAY01175,O01175,cash on delivery,paid,1162.62
+PAY01176,O01176,card,paid,1459.34
+PAY01177,O01177,wallet,paid,10604.56
+PAY01178,O01178,card,refunded,1497.84
+PAY01179,O01179,card,paid,891.87
+PAY01180,O01180,cash on delivery,paid,5813.52
+PAY01181,O01181,bank transfer,paid,9716.48
+PAY01182,O01182,wallet,paid,8013.57
+PAY01183,O01183,card,paid,520.04
+PAY01184,O01184,cash on delivery,paid,10085.96
+PAY01185,O01185,card,paid,3393.26
+PAY01186,O01186,card,paid,245.02
+PAY01187,O01187,card,paid,2111.08
+PAY01188,O01188,card,paid,3683.31
+PAY01189,O01189,bank transfer,paid,272.77
+PAY01190,O01190,bank transfer,paid,1947.19
+PAY01191,O01191,wallet,paid,6618.07
+PAY01192,O01192,cash on delivery,failed,7207.03
+PAY01193,O01193,cash on delivery,paid,7743.58
+PAY01194,O01194,cash on delivery,paid,729.72
+PAY01195,O01195,cash on delivery,failed,1089.25
+PAY01196,O01196,cash on delivery,paid,2753.74
+PAY01197,O01197,cash on delivery,paid,5404.5
+PAY01198,O01198,cash on delivery,paid,4275.93
+PAY01199,O01199,cash on delivery,paid,9910.24
+PAY01200,O01200,card,paid,2942.22
+PAY01201,O01201,cash on delivery,paid,1246.35
+PAY01202,O01202,card,paid,2025.07
+PAY01203,O01203,card,paid,2143.15
+PAY01204,O01204,card,paid,4022.07
+PAY01205,O01205,bank transfer,paid,196.02
+PAY01206,O01206,card,paid,256.13
+PAY01207,O01207,cash on delivery,paid,20859.25
+PAY01208,O01208,card,paid,6217.11
+PAY01209,O01209,cash on delivery,paid,3263.92
+PAY01210,O01210,cash on delivery,paid,276.63
+PAY01211,O01211,card,refunded,12363.12
+PAY01212,O01212,card,paid,3808.34
+PAY01213,O01213,wallet,paid,3533.04
+PAY01214,O01214,card,paid,4930.37
+PAY01215,O01215,card,paid,3799.3
+PAY01216,O01216,card,paid,733.52
+PAY01217,O01217,cash on delivery,paid,4663.51
+PAY01218,O01218,wallet,failed,5137.42
+PAY01219,O01219,card,paid,3003.33
+PAY01220,O01220,cash on delivery,paid,6004.91
+PAY01221,O01221,card,paid,5465.92
+PAY01222,O01222,cash on delivery,paid,198.46
+PAY01223,O01223,cash on delivery,paid,3638.21
+PAY01224,O01224,card,paid,1947.83
+PAY01225,O01225,card,paid,4407.12
+PAY01226,O01226,cash on delivery,paid,5145.77
+PAY01227,O01227,card,paid,10713.89
+PAY01228,O01228,wallet,paid,2617.3
+PAY01229,O01229,bank transfer,paid,1388.81
+PAY01230,O01230,card,paid,17155.32
+PAY01231,O01231,cash on delivery,paid,2270.08
+PAY01232,O01232,card,paid,2614.5
+PAY01233,O01233,cash on delivery,paid,4675.31
+PAY01234,O01234,cash on delivery,paid,15076.71
+PAY01235,O01235,card,paid,4158.08
+PAY01236,O01236,cash on delivery,paid,8310.47
+PAY01237,O01237,cash on delivery,paid,1474.34
+PAY01238,O01238,bank transfer,paid,2580.28
+PAY01239,O01239,card,paid,670.14
+PAY01240,O01240,cash on delivery,paid,14468.06
+PAY01241,O01241,card,paid,6384.94
+PAY01242,O01242,cash on delivery,paid,4722.0
+PAY01243,O01243,cash on delivery,paid,6743.87
+PAY01244,O01244,cash on delivery,refunded,1224.07
+PAY01245,O01245,cash on delivery,paid,1070.24
+PAY01246,O01246,cash on delivery,paid,1502.25
+PAY01247,O01247,card,paid,6103.66
+PAY01248,O01248,wallet,paid,6339.16
+PAY01249,O01249,cash on delivery,paid,6390.47
+PAY01250,O01250,card,refunded,1930.57
+PAY01251,O01251,card,paid,181.24
+PAY01252,O01252,bank transfer,paid,1526.51
+PAY01253,O01253,cash on delivery,paid,786.05
+PAY01254,O01254,card,paid,30396.3
+PAY01255,O01255,cash on delivery,refunded,590.19
+PAY01256,O01256,card,paid,3534.22
+PAY01257,O01257,bank transfer,paid,3256.3
+PAY01258,O01258,bank transfer,paid,443.36
+PAY01259,O01259,card,paid,10353.54
+PAY01260,O01260,card,paid,767.66
+PAY01261,O01261,card,paid,2203.35
+PAY01262,O01262,cash on delivery,paid,2535.02
+PAY01263,O01263,bank transfer,paid,5046.32
+PAY01264,O01264,wallet,paid,3693.02
+PAY01265,O01265,wallet,paid,27610.33
+PAY01266,O01266,card,paid,1863.35
+PAY01267,O01267,cash on delivery,paid,15898.46
+PAY01268,O01268,wallet,paid,265.29
+PAY01269,O01269,cash on delivery,paid,3120.72
+PAY01270,O01270,cash on delivery,paid,5795.86
+PAY01271,O01271,cash on delivery,paid,1049.11
+PAY01272,O01272,card,paid,8319.06
+PAY01273,O01273,bank transfer,paid,488.63
+PAY01274,O01274,cash on delivery,paid,3563.55
+PAY01275,O01275,card,paid,3242.51
+PAY01276,O01276,card,paid,2730.53
+PAY01277,O01277,cash on delivery,paid,6770.24
+PAY01278,O01278,cash on delivery,paid,3747.66
+PAY01279,O01279,wallet,paid,97.26
+PAY01280,O01280,card,paid,7832.49
+PAY01281,O01281,card,paid,4463.57
+PAY01282,O01282,card,refunded,6139.06
+PAY01283,O01283,cash on delivery,paid,78.02
+PAY01284,O01284,card,failed,9093.09
+PAY01285,O01285,card,refunded,1246.67
+PAY01286,O01286,card,paid,1428.34
+PAY01287,O01287,card,paid,1025.29
+PAY01288,O01288,bank transfer,refunded,179.68
+PAY01289,O01289,cash on delivery,paid,2640.38
+PAY01290,O01290,card,paid,8730.17
+PAY01291,O01291,cash on delivery,paid,4342.76
+PAY01292,O01292,cash on delivery,paid,20580.94
+PAY01293,O01293,cash on delivery,paid,19356.02
+PAY01294,O01294,cash on delivery,paid,10182.04
+PAY01295,O01295,cash on delivery,paid,183.92
+PAY01296,O01296,cash on delivery,paid,424.18
+PAY01297,O01297,cash on delivery,paid,3348.23
+PAY01298,O01298,cash on delivery,paid,2223.77
+PAY01299,O01299,card,paid,2997.67
+PAY01300,O01300,wallet,refunded,8015.92
+PAY01301,O01301,cash on delivery,paid,1427.4
+PAY01302,O01302,card,paid,2038.74
+PAY01303,O01303,wallet,paid,73.51
+PAY01304,O01304,cash on delivery,paid,11642.41
+PAY01305,O01305,cash on delivery,paid,7418.92
+PAY01306,O01306,bank transfer,paid,4303.67
+PAY01307,O01307,card,paid,5795.86
+PAY01308,O01308,card,paid,10519.45
+PAY01309,O01309,card,paid,1594.11
+PAY01310,O01310,card,paid,1049.11
+PAY01311,O01311,card,paid,2295.63
+PAY01312,O01312,card,paid,6789.01
+PAY01313,O01313,card,paid,3909.56
+PAY01314,O01314,bank transfer,paid,5124.13
+PAY01315,O01315,card,paid,2377.04
+PAY01316,O01316,card,paid,6336.89
+PAY01317,O01317,cash on delivery,paid,16471.63
+PAY01318,O01318,cash on delivery,paid,16897.23
+PAY01319,O01319,card,paid,1905.98
+PAY01320,O01320,bank transfer,paid,11640.66
+PAY01321,O01321,card,paid,3895.65
+PAY01322,O01322,card,paid,11336.36
+PAY01323,O01323,bank transfer,paid,3356.83
+PAY01324,O01324,bank transfer,paid,272.77
+PAY01325,O01325,card,paid,5827.91
+PAY01326,O01326,cash on delivery,paid,12017.68
+PAY01327,O01327,cash on delivery,paid,8259.39
+PAY01328,O01328,cash on delivery,paid,4336.7
+PAY01329,O01329,card,paid,3468.55
+PAY01330,O01330,cash on delivery,paid,6168.58
+PAY01331,O01331,cash on delivery,paid,6714.83
+PAY01332,O01332,cash on delivery,refunded,3678.31
+PAY01333,O01333,bank transfer,paid,845.18
+PAY01334,O01334,card,paid,5301.26
+PAY01335,O01335,card,paid,7809.86
+PAY01336,O01336,cash on delivery,paid,176.33
+PAY01337,O01337,cash on delivery,paid,3612.61
+PAY01338,O01338,bank transfer,paid,10519.45
+PAY01339,O01339,bank transfer,paid,24281.05
+PAY01340,O01340,card,paid,9543.39
+PAY01341,O01341,card,paid,17116.13
+PAY01342,O01342,card,paid,11310.2
+PAY01343,O01343,cash on delivery,paid,620.89
+PAY01344,O01344,wallet,paid,12225.73
+PAY01345,O01345,card,refunded,4083.83
+PAY01346,O01346,card,refunded,151.28
+PAY01347,O01347,card,paid,10070.47
+PAY01348,O01348,cash on delivery,paid,3300.55
+PAY01349,O01349,cash on delivery,paid,7225.73
+PAY01350,O01350,cash on delivery,paid,6955.69
+PAY01351,O01351,card,paid,6100.08
+PAY01352,O01352,card,paid,8641.76
+PAY01353,O01353,card,paid,3602.03
+PAY01354,O01354,cash on delivery,paid,1133.95
+PAY01355,O01355,card,paid,5555.43
+PAY01356,O01356,card,paid,5322.62
+PAY01357,O01357,card,paid,17468.6
+PAY01358,O01358,cash on delivery,paid,121.1
+PAY01359,O01359,cash on delivery,paid,2677.73
+PAY01360,O01360,cash on delivery,paid,7651.15
+PAY01361,O01361,cash on delivery,paid,1946.63
+PAY01362,O01362,card,paid,2807.63
+PAY01363,O01363,wallet,paid,3005.08
+PAY01364,O01364,cash on delivery,paid,1062.55
+PAY01365,O01365,card,paid,29860.39
+PAY01366,O01366,cash on delivery,paid,4609.52
+PAY01367,O01367,card,refunded,3528.04
+PAY01368,O01368,card,refunded,4543.33
+PAY01369,O01369,bank transfer,paid,5914.58
+PAY01370,O01370,card,paid,1946.66
+PAY01371,O01371,wallet,paid,1496.32
+PAY01372,O01372,card,paid,23432.25
+PAY01373,O01373,bank transfer,paid,3036.83
+PAY01374,O01374,cash on delivery,paid,9470.54
+PAY01375,O01375,cash on delivery,paid,7560.52
+PAY01376,O01376,cash on delivery,paid,4411.88
+PAY01377,O01377,card,paid,1529.7
+PAY01378,O01378,card,failed,2331.27
+PAY01379,O01379,card,paid,4598.47
+PAY01380,O01380,card,paid,7980.99
+PAY01381,O01381,card,paid,8178.74
+PAY01382,O01382,card,paid,5299.73
+PAY01383,O01383,card,paid,3948.75
+PAY01384,O01384,cash on delivery,refunded,6103.56
+PAY01385,O01385,bank transfer,failed,10045.42
+PAY01386,O01386,cash on delivery,paid,2179.34
+PAY01387,O01387,cash on delivery,paid,1680.36
+PAY01388,O01388,cash on delivery,paid,3171.13
+PAY01389,O01389,cash on delivery,paid,3016.03
+PAY01390,O01390,cash on delivery,paid,1387.86
+PAY01391,O01391,cash on delivery,paid,2487.83
+PAY01392,O01392,card,paid,7265.44
+PAY01393,O01393,card,paid,1532.9
+PAY01394,O01394,cash on delivery,paid,3551.27
+PAY01395,O01395,cash on delivery,paid,4144.17
+PAY01396,O01396,card,paid,6328.68
+PAY01397,O01397,bank transfer,paid,278.36
+PAY01398,O01398,card,paid,4212.06
+PAY01399,O01399,bank transfer,paid,7585.7
+PAY01400,O01400,cash on delivery,paid,505.01
+PAY01401,O01401,cash on delivery,paid,3601.88
+PAY01402,O01402,cash on delivery,paid,5011.24
+PAY01403,O01403,wallet,paid,165.57
+PAY01404,O01404,cash on delivery,paid,16734.09
+PAY01405,O01405,bank transfer,paid,1862.72
+PAY01406,O01406,wallet,paid,305.51
+PAY01407,O01407,card,paid,4027.07
+PAY01408,O01408,cash on delivery,failed,148.92
+PAY01409,O01409,cash on delivery,failed,3769.36
+PAY01410,O01410,wallet,paid,8788.9
+PAY01411,O01411,cash on delivery,paid,634.75
+PAY01412,O01412,bank transfer,paid,7167.23
+PAY01413,O01413,cash on delivery,paid,226.94
+PAY01414,O01414,card,paid,3003.52
+PAY01415,O01415,bank transfer,paid,6648.53
+PAY01416,O01416,cash on delivery,paid,1271.94
+PAY01417,O01417,cash on delivery,paid,218.28
+PAY01418,O01418,wallet,paid,1227.47
+PAY01419,O01419,card,paid,709.55
+PAY01420,O01420,bank transfer,paid,3197.96
+PAY01421,O01421,cash on delivery,paid,8110.95
+PAY01422,O01422,cash on delivery,refunded,10643.98
+PAY01423,O01423,cash on delivery,paid,2113.35
+PAY01424,O01424,wallet,refunded,8280.65
+PAY01425,O01425,cash on delivery,paid,2254.49
+PAY01426,O01426,cash on delivery,paid,379.46
+PAY01427,O01427,card,paid,3559.69
+PAY01428,O01428,cash on delivery,paid,3481.77
+PAY01429,O01429,cash on delivery,paid,351.92
+PAY01430,O01430,cash on delivery,paid,3498.04
+PAY01431,O01431,cash on delivery,paid,4927.0
+PAY01432,O01432,cash on delivery,paid,2795.89
+PAY01433,O01433,cash on delivery,paid,3047.24
+PAY01434,O01434,card,refunded,11838.62
+PAY01435,O01435,bank transfer,paid,19152.87
+PAY01436,O01436,card,paid,8900.87
+PAY01437,O01437,card,paid,1479.94
+PAY01438,O01438,card,paid,1060.21
+PAY01439,O01439,card,paid,9096.58
+PAY01440,O01440,wallet,paid,366.06
+PAY01441,O01441,card,paid,520.04
+PAY01442,O01442,card,paid,6993.65
+PAY01443,O01443,card,paid,11260.58
+PAY01444,O01444,card,paid,9989.74
+PAY01445,O01445,cash on delivery,paid,3227.68
+PAY01446,O01446,card,paid,8150.5
+PAY01447,O01447,card,paid,3273.56
+PAY01448,O01448,wallet,paid,10720.46
+PAY01449,O01449,card,paid,2799.28
+PAY01450,O01450,card,paid,5390.24
+PAY01451,O01451,card,paid,31717.64
+PAY01452,O01452,card,paid,543.76
+PAY01453,O01453,bank transfer,paid,5098.98
+PAY01454,O01454,bank transfer,paid,15058.24
+PAY01455,O01455,cash on delivery,paid,637.49
+PAY01456,O01456,wallet,paid,3318.98
+PAY01457,O01457,cash on delivery,paid,2309.47
+PAY01458,O01458,card,paid,155.78
+PAY01459,O01459,card,paid,6335.61
+PAY01460,O01460,wallet,paid,1460.92
+PAY01461,O01461,card,paid,554.17
+PAY01462,O01462,card,paid,8077.3
+PAY01463,O01463,cash on delivery,paid,3390.32
+PAY01464,O01464,card,paid,2070.47
+PAY01465,O01465,card,paid,558.76
+PAY01466,O01466,cash on delivery,paid,4384.8
+PAY01467,O01467,cash on delivery,paid,4858.89
+PAY01468,O01468,cash on delivery,paid,7117.82
+PAY01469,O01469,wallet,paid,5858.02
+PAY01470,O01470,wallet,paid,198.06
+PAY01471,O01471,card,paid,455.03
+PAY01472,O01472,cash on delivery,paid,228.51
+PAY01473,O01473,bank transfer,paid,7102.29
+PAY01474,O01474,card,paid,558.74
+PAY01475,O01475,cash on delivery,paid,10014.42
+PAY01476,O01476,card,paid,723.22
+PAY01477,O01477,cash on delivery,paid,301.36
+PAY01478,O01478,wallet,paid,292.08
+PAY01479,O01479,bank transfer,paid,9152.84
+PAY01480,O01480,cash on delivery,refunded,1957.93
+PAY01481,O01481,cash on delivery,paid,1077.55
+PAY01482,O01482,cash on delivery,paid,2427.04
+PAY01483,O01483,card,paid,4845.56
+PAY01484,O01484,card,paid,5036.35
+PAY01485,O01485,card,refunded,2847.63
+PAY01486,O01486,cash on delivery,paid,2861.09
+PAY01487,O01487,cash on delivery,paid,5113.51
+PAY01488,O01488,cash on delivery,paid,1166.75
+PAY01489,O01489,card,paid,909.58
+PAY01490,O01490,bank transfer,paid,245.31
+PAY01491,O01491,cash on delivery,paid,13424.66
+PAY01492,O01492,card,paid,382.08
+PAY01493,O01493,card,paid,182.2
+PAY01494,O01494,card,paid,1059.05
+PAY01495,O01495,card,paid,1665.81
+PAY01496,O01496,cash on delivery,paid,3038.52
+PAY01497,O01497,cash on delivery,paid,2783.03
+PAY01498,O01498,card,paid,672.91
+PAY01499,O01499,card,paid,4644.83
+PAY01500,O01500,cash on delivery,paid,4217.05
+PAY01501,O01501,bank transfer,paid,8198.24
+PAY01502,O01502,card,paid,1169.71
+PAY01503,O01503,cash on delivery,paid,399.19
+PAY01504,O01504,card,paid,178.72
+PAY01505,O01505,cash on delivery,paid,2593.73
+PAY01506,O01506,cash on delivery,paid,4478.76
+PAY01507,O01507,cash on delivery,paid,237.26
+PAY01508,O01508,cash on delivery,paid,2517.82
+PAY01509,O01509,bank transfer,paid,5118.75
+PAY01510,O01510,cash on delivery,paid,5910.06
+PAY01511,O01511,bank transfer,paid,5007.52
+PAY01512,O01512,cash on delivery,paid,5022.7
+PAY01513,O01513,card,paid,14415.33
+PAY01514,O01514,card,paid,12015.4
+PAY01515,O01515,bank transfer,paid,5187.3
+PAY01516,O01516,card,paid,8400.15
+PAY01517,O01517,card,refunded,3906.21
+PAY01518,O01518,cash on delivery,paid,597.58
+PAY01519,O01519,cash on delivery,paid,3898.48
+PAY01520,O01520,cash on delivery,paid,9351.74
+PAY01521,O01521,bank transfer,paid,2471.62
+PAY01522,O01522,cash on delivery,paid,5127.43
+PAY01523,O01523,card,paid,2182.99
+PAY01524,O01524,wallet,paid,221.73
+PAY01525,O01525,cash on delivery,paid,3156.62
+PAY01526,O01526,bank transfer,paid,18998.05
+PAY01527,O01527,cash on delivery,paid,2128.68
+PAY01528,O01528,cash on delivery,refunded,14494.03
+PAY01529,O01529,bank transfer,paid,10800.4
+PAY01530,O01530,cash on delivery,paid,12987.93
+PAY01531,O01531,card,paid,642.49
+PAY01532,O01532,card,paid,1405.7
+PAY01533,O01533,cash on delivery,failed,3391.06
+PAY01534,O01534,cash on delivery,paid,14235.07
+PAY01535,O01535,wallet,paid,3253.9
+PAY01536,O01536,card,paid,18218.34
+PAY01537,O01537,card,paid,2826.69
+PAY01538,O01538,wallet,paid,1077.02
+PAY01539,O01539,cash on delivery,paid,2960.97
+PAY01540,O01540,card,paid,2931.01
+PAY01541,O01541,cash on delivery,paid,8382.26
+PAY01542,O01542,cash on delivery,paid,2283.42
+PAY01543,O01543,cash on delivery,paid,4321.36
+PAY01544,O01544,cash on delivery,paid,5412.24
+PAY01545,O01545,card,paid,2517.82
+PAY01546,O01546,card,paid,2611.7
+PAY01547,O01547,cash on delivery,paid,206.25
+PAY01548,O01548,wallet,paid,6724.83
+PAY01549,O01549,wallet,paid,1228.71
+PAY01550,O01550,card,refunded,847.27
+PAY01551,O01551,card,paid,19264.19
+PAY01552,O01552,cash on delivery,paid,5215.7
+PAY01553,O01553,cash on delivery,refunded,10163.13
+PAY01554,O01554,card,paid,14635.6
+PAY01555,O01555,cash on delivery,paid,4763.55
+PAY01556,O01556,cash on delivery,refunded,1034.46
+PAY01557,O01557,card,paid,2235.3
+PAY01558,O01558,wallet,paid,1733.74
+PAY01559,O01559,cash on delivery,paid,3885.47
+PAY01560,O01560,cash on delivery,paid,29304.43
+PAY01561,O01561,bank transfer,paid,2194.26
+PAY01562,O01562,bank transfer,paid,289.92
+PAY01563,O01563,wallet,paid,6382.08
+PAY01564,O01564,cash on delivery,paid,3698.78
+PAY01565,O01565,wallet,paid,9302.88
+PAY01566,O01566,cash on delivery,paid,8012.89
+PAY01567,O01567,cash on delivery,paid,9025.97
+PAY01568,O01568,cash on delivery,paid,1778.95
+PAY01569,O01569,cash on delivery,paid,2278.04
+PAY01570,O01570,card,paid,9196.09
+PAY01571,O01571,card,paid,196.24
+PAY01572,O01572,card,paid,4108.71
+PAY01573,O01573,card,paid,19718.12
+PAY01574,O01574,card,paid,3410.68
+PAY01575,O01575,cash on delivery,paid,5807.27
+PAY01576,O01576,bank transfer,paid,3297.59
+PAY01577,O01577,card,paid,1195.63
+PAY01578,O01578,cash on delivery,paid,6185.3
+PAY01579,O01579,bank transfer,refunded,3143.46
+PAY01580,O01580,bank transfer,paid,4338.58
+PAY01581,O01581,bank transfer,paid,2753.03
+PAY01582,O01582,wallet,paid,1513.94
+PAY01583,O01583,bank transfer,paid,9558.56
+PAY01584,O01584,bank transfer,paid,1096.3
+PAY01585,O01585,cash on delivery,refunded,5342.16
+PAY01586,O01586,bank transfer,paid,571.55
+PAY01587,O01587,card,paid,1670.36
+PAY01588,O01588,bank transfer,paid,11469.6
+PAY01589,O01589,cash on delivery,paid,2205.9
+PAY01590,O01590,card,paid,1569.71
+PAY01591,O01591,cash on delivery,paid,11702.35
+PAY01592,O01592,cash on delivery,paid,23684.03
+PAY01593,O01593,card,paid,206.75
+PAY01594,O01594,cash on delivery,paid,767.66
+PAY01595,O01595,card,paid,12966.08
+PAY01596,O01596,card,paid,199.68
+PAY01597,O01597,cash on delivery,paid,694.14
+PAY01598,O01598,bank transfer,paid,518.89
+PAY01599,O01599,bank transfer,paid,7601.12
+PAY01600,O01600,card,paid,8613.91
+PAY01601,O01601,cash on delivery,paid,9427.25
+PAY01602,O01602,card,paid,136.77
+PAY01603,O01603,cash on delivery,paid,3827.85
+PAY01604,O01604,cash on delivery,paid,5375.64
+PAY01605,O01605,cash on delivery,paid,1381.89
+PAY01606,O01606,cash on delivery,paid,2907.76
+PAY01607,O01607,card,paid,840.18
+PAY01608,O01608,cash on delivery,paid,4407.42
+PAY01609,O01609,wallet,paid,5424.46
+PAY01610,O01610,bank transfer,paid,4975.45
+PAY01611,O01611,card,paid,3054.99
+PAY01612,O01612,card,paid,2965.23
+PAY01613,O01613,wallet,paid,5070.78
+PAY01614,O01614,cash on delivery,paid,3678.78
+PAY01615,O01615,wallet,paid,7685.83
+PAY01616,O01616,card,paid,6993.08
+PAY01617,O01617,cash on delivery,paid,3704.25
+PAY01618,O01618,wallet,paid,3894.85
+PAY01619,O01619,cash on delivery,paid,10960.17
+PAY01620,O01620,card,paid,149.73
+PAY01621,O01621,cash on delivery,paid,4302.19
+PAY01622,O01622,card,paid,7296.02
+PAY01623,O01623,cash on delivery,paid,2362.81
+PAY01624,O01624,cash on delivery,paid,2367.81
+PAY01625,O01625,cash on delivery,paid,1093.35
+PAY01626,O01626,cash on delivery,paid,2062.29
+PAY01627,O01627,cash on delivery,paid,6441.78
+PAY01628,O01628,bank transfer,paid,146.4
+PAY01629,O01629,cash on delivery,paid,682.22
+PAY01630,O01630,cash on delivery,paid,2880.45
+PAY01631,O01631,cash on delivery,paid,13120.0
+PAY01632,O01632,card,paid,17431.98
+PAY01633,O01633,cash on delivery,paid,1914.53
+PAY01634,O01634,card,paid,4535.65
+PAY01635,O01635,cash on delivery,paid,3110.64
+PAY01636,O01636,card,paid,14455.25
+PAY01637,O01637,cash on delivery,refunded,11364.95
+PAY01638,O01638,card,paid,1530.54
+PAY01639,O01639,cash on delivery,refunded,672.45
+PAY01640,O01640,cash on delivery,paid,1593.71
+PAY01641,O01641,cash on delivery,paid,10723.34
+PAY01642,O01642,bank transfer,paid,2312.71
+PAY01643,O01643,cash on delivery,paid,1246.13
+PAY01644,O01644,card,paid,3382.33
+PAY01645,O01645,cash on delivery,paid,1463.08
+PAY01646,O01646,wallet,paid,1741.9
+PAY01647,O01647,card,paid,734.55
+PAY01648,O01648,bank transfer,paid,9447.25
+PAY01649,O01649,cash on delivery,paid,3491.38
+PAY01650,O01650,bank transfer,paid,10366.57
+PAY01651,O01651,cash on delivery,paid,1612.64
+PAY01652,O01652,card,paid,3802.32
+PAY01653,O01653,cash on delivery,paid,11609.58
+PAY01654,O01654,cash on delivery,paid,406.57
+PAY01655,O01655,bank transfer,paid,1813.21
+PAY01656,O01656,bank transfer,paid,758.16
+PAY01657,O01657,bank transfer,paid,10198.37
+PAY01658,O01658,wallet,paid,625.53
+PAY01659,O01659,bank transfer,refunded,11716.84
+PAY01660,O01660,wallet,paid,1665.36
+PAY01661,O01661,cash on delivery,paid,240.93
+PAY01662,O01662,cash on delivery,paid,17732.47
+PAY01663,O01663,card,paid,7878.14
+PAY01664,O01664,cash on delivery,paid,6500.79
+PAY01665,O01665,cash on delivery,paid,7045.9
+PAY01666,O01666,bank transfer,paid,781.54
+PAY01667,O01667,card,paid,7011.24
+PAY01668,O01668,bank transfer,paid,498.63
+PAY01669,O01669,bank transfer,paid,895.59
+PAY01670,O01670,card,paid,12318.64
+PAY01671,O01671,cash on delivery,paid,329.4
+PAY01672,O01672,cash on delivery,paid,30121.58
+PAY01673,O01673,cash on delivery,paid,7358.82
+PAY01674,O01674,wallet,paid,783.11
+PAY01675,O01675,cash on delivery,paid,722.91
+PAY01676,O01676,card,paid,719.76
+PAY01677,O01677,card,paid,3075.87
+PAY01678,O01678,wallet,paid,2237.83
+PAY01679,O01679,card,paid,399.06
+PAY01680,O01680,cash on delivery,paid,4142.56
+PAY01681,O01681,card,paid,4214.15
+PAY01682,O01682,cash on delivery,paid,12724.94
+PAY01683,O01683,cash on delivery,paid,6417.31
+PAY01684,O01684,card,paid,765.27
+PAY01685,O01685,wallet,paid,2426.44
+PAY01686,O01686,cash on delivery,paid,2328.51
+PAY01687,O01687,bank transfer,refunded,4374.8
+PAY01688,O01688,card,paid,186.24
+PAY01689,O01689,card,paid,2837.54
+PAY01690,O01690,cash on delivery,paid,12794.18
+PAY01691,O01691,card,failed,8498.59
+PAY01692,O01692,card,paid,3010.09
+PAY01693,O01693,card,paid,11366.36
+PAY01694,O01694,card,paid,3503.37
+PAY01695,O01695,card,failed,1631.02
+PAY01696,O01696,wallet,paid,4020.64
+PAY01697,O01697,bank transfer,failed,9893.15
+PAY01698,O01698,card,paid,11728.77
+PAY01699,O01699,wallet,paid,3250.78
+PAY01700,O01700,card,paid,7395.27
+PAY01701,O01701,card,paid,2290.08
+PAY01702,O01702,wallet,paid,12346.78
+PAY01703,O01703,bank transfer,paid,2873.95
+PAY01704,O01704,card,paid,2157.58
+PAY01705,O01705,bank transfer,paid,11948.39
+PAY01706,O01706,cash on delivery,paid,474.9
+PAY01707,O01707,bank transfer,paid,5309.85
+PAY01708,O01708,cash on delivery,paid,382.57
+PAY01709,O01709,cash on delivery,paid,9041.97
+PAY01710,O01710,cash on delivery,paid,11758.45
+PAY01711,O01711,wallet,paid,5218.64
+PAY01712,O01712,bank transfer,paid,1189.28
+PAY01713,O01713,bank transfer,paid,11140.4
+PAY01714,O01714,cash on delivery,paid,2952.5
+PAY01715,O01715,bank transfer,paid,13422.55
+PAY01716,O01716,card,refunded,2273.04
+PAY01717,O01717,cash on delivery,paid,6704.53
+PAY01718,O01718,card,paid,580.33
+PAY01719,O01719,bank transfer,paid,336.16
+PAY01720,O01720,card,paid,20637.35
+PAY01721,O01721,cash on delivery,paid,2033.1
+PAY01722,O01722,cash on delivery,paid,4964.51
+PAY01723,O01723,cash on delivery,paid,6054.98
+PAY01724,O01724,bank transfer,paid,1957.36
+PAY01725,O01725,card,paid,4705.31
+PAY01726,O01726,bank transfer,paid,2490.91
+PAY01727,O01727,card,paid,19177.87
+PAY01728,O01728,bank transfer,paid,71.54
+PAY01729,O01729,cash on delivery,paid,268.93
+PAY01730,O01730,cash on delivery,paid,9668.24
+PAY01731,O01731,cash on delivery,paid,6484.24
+PAY01732,O01732,cash on delivery,paid,1902.25
+PAY01733,O01733,card,paid,211.3
+PAY01734,O01734,card,paid,10701.97
+PAY01735,O01735,wallet,paid,8382.69
+PAY01736,O01736,bank transfer,paid,1711.17
+PAY01737,O01737,cash on delivery,paid,1400.7
+PAY01738,O01738,card,paid,1012.39
+PAY01739,O01739,cash on delivery,paid,622.74
+PAY01740,O01740,card,paid,3623.03
+PAY01741,O01741,cash on delivery,paid,6920.57
+PAY01742,O01742,card,paid,12387.31
+PAY01743,O01743,cash on delivery,paid,1484.34
+PAY01744,O01744,cash on delivery,paid,3929.64
+PAY01745,O01745,cash on delivery,paid,1241.13
+PAY01746,O01746,card,paid,4106.9
+PAY01747,O01747,bank transfer,paid,5304.38
+PAY01748,O01748,cash on delivery,paid,227.98
+PAY01749,O01749,cash on delivery,paid,2715.46
+PAY01750,O01750,cash on delivery,paid,1902.55
+PAY01751,O01751,cash on delivery,paid,1860.33
+PAY01752,O01752,cash on delivery,refunded,3703.02
+PAY01753,O01753,cash on delivery,paid,2750.96
+PAY01754,O01754,cash on delivery,paid,25462.83
+PAY01755,O01755,cash on delivery,paid,2075.07
+PAY01756,O01756,cash on delivery,refunded,11279.23
+PAY01757,O01757,bank transfer,paid,2481.0
+PAY01758,O01758,card,paid,4285.85
+PAY01759,O01759,wallet,paid,8417.83
+PAY01760,O01760,cash on delivery,paid,13986.15
+PAY01761,O01761,bank transfer,paid,4720.15
+PAY01762,O01762,card,paid,5948.92
+PAY01763,O01763,cash on delivery,paid,4261.19
+PAY01764,O01764,card,paid,1416.98
+PAY01765,O01765,cash on delivery,paid,9861.65
+PAY01766,O01766,cash on delivery,paid,1165.02
+PAY01767,O01767,bank transfer,failed,2523.42
+PAY01768,O01768,cash on delivery,paid,5035.93
+PAY01769,O01769,cash on delivery,paid,1399.37
+PAY01770,O01770,bank transfer,paid,1034.8
+PAY01771,O01771,card,paid,3500.37
+PAY01772,O01772,cash on delivery,paid,1298.98
+PAY01773,O01773,cash on delivery,paid,15175.24
+PAY01774,O01774,cash on delivery,paid,2629.12
+PAY01775,O01775,card,paid,234.29
+PAY01776,O01776,cash on delivery,paid,3269.73
+PAY01777,O01777,card,paid,3343.14
+PAY01778,O01778,cash on delivery,paid,816.12
+PAY01779,O01779,cash on delivery,paid,9464.71
+PAY01780,O01780,card,paid,15067.98
+PAY01781,O01781,cash on delivery,paid,7580.6
+PAY01782,O01782,bank transfer,paid,1901.63
+PAY01783,O01783,cash on delivery,paid,3389.28
+PAY01784,O01784,cash on delivery,paid,719.86
+PAY01785,O01785,cash on delivery,paid,3604.31
+PAY01786,O01786,bank transfer,paid,3733.84
+PAY01787,O01787,cash on delivery,paid,2990.79
+PAY01788,O01788,cash on delivery,paid,5950.91
+PAY01789,O01789,wallet,paid,21191.57
+PAY01790,O01790,wallet,paid,11712.3
+PAY01791,O01791,card,paid,2992.5
+PAY01792,O01792,cash on delivery,paid,4292.76
+PAY01793,O01793,card,paid,585.89
+PAY01794,O01794,card,paid,6397.1
+PAY01795,O01795,bank transfer,paid,1962.42
+PAY01796,O01796,card,paid,459.91
+PAY01797,O01797,cash on delivery,paid,12886.29
+PAY01798,O01798,card,failed,82.61
+PAY01799,O01799,card,paid,7859.74
+PAY01800,O01800,bank transfer,paid,2120.03
+PAY01801,O01801,card,paid,617.88
+PAY01802,O01802,card,paid,8004.24
+PAY01803,O01803,cash on delivery,paid,7762.22
+PAY01804,O01804,cash on delivery,paid,924.89
+PAY01805,O01805,card,paid,1026.55
+PAY01806,O01806,card,paid,11016.33
+PAY01807,O01807,cash on delivery,paid,9808.4
+PAY01808,O01808,card,paid,7112.13
+PAY01809,O01809,bank transfer,paid,19915.57
+PAY01810,O01810,wallet,paid,2271.91
+PAY01811,O01811,cash on delivery,paid,3613.83
+PAY01812,O01812,cash on delivery,paid,1998.19
+PAY01813,O01813,wallet,paid,3378.78
+PAY01814,O01814,cash on delivery,paid,660.93
+PAY01815,O01815,card,paid,2853.16
+PAY01816,O01816,bank transfer,refunded,509.9
+PAY01817,O01817,card,paid,23691.37
+PAY01818,O01818,cash on delivery,paid,529.17
+PAY01819,O01819,card,paid,1253.47
+PAY01820,O01820,card,paid,9987.3
+PAY01821,O01821,cash on delivery,paid,6286.93
+PAY01822,O01822,bank transfer,paid,18857.13
+PAY01823,O01823,cash on delivery,paid,4116.29
+PAY01824,O01824,cash on delivery,paid,6384.29
+PAY01825,O01825,cash on delivery,paid,4360.88
+PAY01826,O01826,cash on delivery,paid,3668.31
+PAY01827,O01827,card,paid,3206.13
+PAY01828,O01828,cash on delivery,paid,11485.64
+PAY01829,O01829,bank transfer,paid,3742.3
+PAY01830,O01830,cash on delivery,paid,454.91
+PAY01831,O01831,cash on delivery,paid,676.14
+PAY01832,O01832,wallet,paid,1160.02
+PAY01833,O01833,card,paid,8635.04
+PAY01834,O01834,cash on delivery,paid,3699.41
+PAY01835,O01835,cash on delivery,paid,3824.0
+PAY01836,O01836,card,paid,6473.67
+PAY01837,O01837,cash on delivery,paid,7539.74
+PAY01838,O01838,card,paid,1242.1
+PAY01839,O01839,card,paid,10048.91
+PAY01840,O01840,cash on delivery,paid,3571.88
+PAY01841,O01841,card,paid,3248.47
+PAY01842,O01842,cash on delivery,paid,1395.26
+PAY01843,O01843,card,paid,3099.18
+PAY01844,O01844,card,paid,7539.74
+PAY01845,O01845,bank transfer,paid,1668.38
+PAY01846,O01846,card,paid,17997.64
+PAY01847,O01847,cash on delivery,paid,2953.96
+PAY01848,O01848,wallet,paid,3933.75
+PAY01849,O01849,card,paid,7994.23
+PAY01850,O01850,cash on delivery,paid,1235.38
+PAY01851,O01851,card,paid,4238.15
+PAY01852,O01852,wallet,paid,6516.56
+PAY01853,O01853,cash on delivery,paid,11140.88
+PAY01854,O01854,card,paid,12982.64
+PAY01855,O01855,bank transfer,paid,3405.68
+PAY01856,O01856,cash on delivery,paid,1800.04
+PAY01857,O01857,bank transfer,refunded,125.89
+PAY01858,O01858,cash on delivery,paid,408.46
+PAY01859,O01859,card,paid,555.27
+PAY01860,O01860,card,paid,9211.3
+PAY01861,O01861,card,paid,782.17
+PAY01862,O01862,card,paid,3635.13
+PAY01863,O01863,cash on delivery,paid,7128.61
+PAY01864,O01864,cash on delivery,paid,5672.75
+PAY01865,O01865,cash on delivery,paid,4717.67
+PAY01866,O01866,card,paid,1145.15
+PAY01867,O01867,card,paid,778.97
+PAY01868,O01868,cash on delivery,paid,3253.7
+PAY01869,O01869,cash on delivery,paid,107.99
+PAY01870,O01870,card,paid,2748.34
+PAY01871,O01871,cash on delivery,paid,4118.83
+PAY01872,O01872,card,paid,8019.14
+PAY01873,O01873,card,paid,6315.92
+PAY01874,O01874,wallet,paid,2429.28
+PAY01875,O01875,cash on delivery,paid,255.29
+PAY01876,O01876,cash on delivery,paid,156.34
+PAY01877,O01877,card,paid,8811.63
+PAY01878,O01878,cash on delivery,paid,1450.92
+PAY01879,O01879,cash on delivery,paid,2096.01
+PAY01880,O01880,card,paid,4954.57
+PAY01881,O01881,cash on delivery,paid,4485.32
+PAY01882,O01882,cash on delivery,refunded,17289.95
+PAY01883,O01883,card,paid,5004.37
+PAY01884,O01884,card,paid,5656.45
+PAY01885,O01885,cash on delivery,paid,10097.85
+PAY01886,O01886,card,paid,1096.3
+PAY01887,O01887,wallet,paid,5349.49
+PAY01888,O01888,bank transfer,paid,8529.9
+PAY01889,O01889,cash on delivery,paid,11995.46
+PAY01890,O01890,cash on delivery,paid,12419.25
+PAY01891,O01891,card,paid,17974.67
+PAY01892,O01892,card,paid,8248.06
+PAY01893,O01893,card,paid,1939.38
+PAY01894,O01894,card,paid,206.73
+PAY01895,O01895,bank transfer,paid,1085.54
+PAY01896,O01896,wallet,paid,6357.73
+PAY01897,O01897,cash on delivery,paid,6404.29
+PAY01898,O01898,card,failed,1780.47
+PAY01899,O01899,card,paid,627.43
+PAY01900,O01900,cash on delivery,paid,17557.42
+PAY01901,O01901,card,paid,715.58
+PAY01902,O01902,card,refunded,151.77
+PAY01903,O01903,cash on delivery,paid,3025.56
+PAY01904,O01904,card,paid,121.4
+PAY01905,O01905,card,paid,3141.52
+PAY01906,O01906,cash on delivery,paid,10473.88
+PAY01907,O01907,card,paid,1498.07
+PAY01908,O01908,cash on delivery,paid,2682.55
+PAY01909,O01909,cash on delivery,paid,5334.49
+PAY01910,O01910,card,paid,2907.24
+PAY01911,O01911,card,paid,721.06
+PAY01912,O01912,card,paid,6703.24
+PAY01913,O01913,card,paid,4784.08
+PAY01914,O01914,cash on delivery,paid,2109.05
+PAY01915,O01915,cash on delivery,paid,2555.02
+PAY01916,O01916,card,paid,2835.74
+PAY01917,O01917,bank transfer,failed,10158.61
+PAY01918,O01918,wallet,paid,3409.17
+PAY01919,O01919,card,paid,216.3
+PAY01920,O01920,card,paid,3762.32
+PAY01921,O01921,cash on delivery,paid,4028.79
+PAY01922,O01922,card,paid,2740.13
+PAY01923,O01923,cash on delivery,paid,5456.19
+PAY01924,O01924,cash on delivery,paid,10173.45
+PAY01925,O01925,wallet,paid,9277.99
+PAY01926,O01926,bank transfer,paid,11166.84
+PAY01927,O01927,cash on delivery,paid,3792.85
+PAY01928,O01928,bank transfer,refunded,4178.66
+PAY01929,O01929,card,paid,2344.64
+PAY01930,O01930,cash on delivery,paid,4505.23
+PAY01931,O01931,card,refunded,3784.87
+PAY01932,O01932,cash on delivery,paid,12761.55
+PAY01933,O01933,bank transfer,paid,5864.83
+PAY01934,O01934,cash on delivery,paid,1427.52
+PAY01935,O01935,cash on delivery,failed,20808.25
+PAY01936,O01936,cash on delivery,paid,4495.55
+PAY01937,O01937,cash on delivery,paid,2164.34
+PAY01938,O01938,card,paid,2856.84
+PAY01939,O01939,cash on delivery,paid,9060.94
+PAY01940,O01940,card,paid,841.97
+PAY01941,O01941,card,paid,5273.75
+PAY01942,O01942,cash on delivery,paid,10576.6
+PAY01943,O01943,cash on delivery,paid,2506.94
+PAY01944,O01944,cash on delivery,paid,1733.74
+PAY01945,O01945,cash on delivery,paid,3188.2
+PAY01946,O01946,cash on delivery,paid,5337.62
+PAY01947,O01947,wallet,paid,271.64
+PAY01948,O01948,bank transfer,paid,2635.38
+PAY01949,O01949,cash on delivery,paid,253.92
+PAY01950,O01950,cash on delivery,paid,3391.87
+PAY01951,O01951,card,paid,1111.3
+PAY01952,O01952,cash on delivery,refunded,636.8
+PAY01953,O01953,cash on delivery,paid,145.61
+PAY01954,O01954,bank transfer,paid,13745.41
+PAY01955,O01955,wallet,paid,4128.08
+PAY01956,O01956,cash on delivery,paid,751.42
+PAY01957,O01957,card,paid,15748.14
+PAY01958,O01958,cash on delivery,paid,1776.08
+PAY01959,O01959,cash on delivery,paid,3206.13
+PAY01960,O01960,card,paid,1415.32
+PAY01961,O01961,card,paid,6130.82
+PAY01962,O01962,card,paid,740.48
+PAY01963,O01963,cash on delivery,paid,9774.12
+PAY01964,O01964,cash on delivery,paid,9145.24
+PAY01965,O01965,cash on delivery,paid,6057.03
+PAY01966,O01966,cash on delivery,paid,7575.1
+PAY01967,O01967,bank transfer,paid,7031.87
+PAY01968,O01968,wallet,paid,2353.41
+PAY01969,O01969,bank transfer,paid,12888.8
+PAY01970,O01970,cash on delivery,paid,3873.34
+PAY01971,O01971,card,paid,4603.47
+PAY01972,O01972,card,paid,3618.69
+PAY01973,O01973,cash on delivery,paid,213.05
+PAY01974,O01974,card,paid,376.11
+PAY01975,O01975,card,paid,1148.53
+PAY01976,O01976,cash on delivery,failed,12198.23
+PAY01977,O01977,cash on delivery,refunded,8264.08
+PAY01978,O01978,cash on delivery,paid,12045.68
+PAY01979,O01979,cash on delivery,paid,150.22
+PAY01980,O01980,card,paid,202.39
+PAY01981,O01981,cash on delivery,paid,7752.24
+PAY01982,O01982,wallet,paid,2783.03
+PAY01983,O01983,card,paid,170.08
+PAY01984,O01984,bank transfer,paid,1362.85
+PAY01985,O01985,cash on delivery,paid,4885.42
+PAY01986,O01986,card,paid,3239.39
+PAY01987,O01987,card,paid,1313.32
+PAY01988,O01988,cash on delivery,paid,3203.27
+PAY01989,O01989,card,paid,15818.07
+PAY01990,O01990,wallet,paid,8344.99
+PAY01991,O01991,cash on delivery,paid,555.27
+PAY01992,O01992,card,paid,9949.06
+PAY01993,O01993,cash on delivery,paid,1300.14
+PAY01994,O01994,card,paid,3050.94
+PAY01995,O01995,card,paid,12801.47
+PAY01996,O01996,cash on delivery,paid,5825.94
+PAY01997,O01997,cash on delivery,refunded,2949.32
+PAY01998,O01998,wallet,paid,904.54
+PAY01999,O01999,card,paid,1993.19
+PAY02000,O02000,cash on delivery,refunded,73.51
+PAY02001,O02001,wallet,paid,744.55
+PAY02002,O02002,card,paid,576.33
+PAY02003,O02003,card,paid,179.68
+PAY02004,O02004,bank transfer,paid,7198.47
+PAY02005,O02005,cash on delivery,paid,4054.62
+PAY02006,O02006,cash on delivery,paid,3489.51
+PAY02007,O02007,cash on delivery,paid,6792.04
+PAY02008,O02008,cash on delivery,paid,9312.41
+PAY02009,O02009,card,paid,1337.73
+PAY02010,O02010,cash on delivery,paid,7047.19
+PAY02011,O02011,cash on delivery,paid,2601.51
+PAY02012,O02012,card,paid,1177.43
+PAY02013,O02013,wallet,paid,2045.39
+PAY02014,O02014,cash on delivery,paid,10090.62
+PAY02015,O02015,card,paid,17638.95
+PAY02016,O02016,bank transfer,paid,659.8
+PAY02017,O02017,cash on delivery,paid,4423.32
+PAY02018,O02018,bank transfer,paid,4172.56
+PAY02019,O02019,cash on delivery,paid,1514.02
+PAY02020,O02020,wallet,paid,3042.57
+PAY02021,O02021,cash on delivery,paid,48.63
+PAY02022,O02022,card,paid,464.74
+PAY02023,O02023,cash on delivery,paid,453.65
+PAY02024,O02024,cash on delivery,paid,2306.42
+PAY02025,O02025,cash on delivery,paid,8014.14
+PAY02026,O02026,bank transfer,refunded,110.51
+PAY02027,O02027,cash on delivery,paid,3496.54
+PAY02028,O02028,card,paid,5178.75
+PAY02029,O02029,card,paid,2759.31
+PAY02030,O02030,card,paid,5059.33
+PAY02031,O02031,card,paid,145.08
+PAY02032,O02032,cash on delivery,paid,3287.06
+PAY02033,O02033,card,paid,8651.67
+PAY02034,O02034,cash on delivery,paid,3408.88
+PAY02035,O02035,cash on delivery,paid,20608.76
+PAY02036,O02036,card,paid,424.53
+PAY02037,O02037,cash on delivery,paid,6972.29
+PAY02038,O02038,card,paid,5293.94
+PAY02039,O02039,cash on delivery,paid,8547.05
+PAY02040,O02040,card,paid,10176.65
+PAY02041,O02041,card,paid,3151.52
+PAY02042,O02042,cash on delivery,paid,3936.81
+PAY02043,O02043,cash on delivery,paid,3328.98
+PAY02044,O02044,cash on delivery,paid,812.27
+PAY02045,O02045,cash on delivery,paid,5499.92
+PAY02046,O02046,cash on delivery,paid,2576.9
+PAY02047,O02047,cash on delivery,paid,13904.12
+PAY02048,O02048,cash on delivery,paid,2584.94
+PAY02049,O02049,cash on delivery,paid,1840.06
+PAY02050,O02050,cash on delivery,paid,5675.62
+PAY02051,O02051,cash on delivery,paid,2241.78
+PAY02052,O02052,card,paid,1825.75
+PAY02053,O02053,cash on delivery,paid,10750.54
+PAY02054,O02054,wallet,paid,9043.26
+PAY02055,O02055,card,paid,256.62
+PAY02056,O02056,cash on delivery,paid,3165.0
+PAY02057,O02057,card,paid,1914.9
+PAY02058,O02058,cash on delivery,paid,3564.03
+PAY02059,O02059,bank transfer,paid,725.35
+PAY02060,O02060,card,paid,1931.05
+PAY02061,O02061,cash on delivery,refunded,2939.43
+PAY02062,O02062,card,paid,19790.89
+PAY02063,O02063,cash on delivery,paid,5011.24
+PAY02064,O02064,cash on delivery,paid,1417.27
+PAY02065,O02065,card,paid,4414.06
+PAY02066,O02066,card,paid,1975.98
+PAY02067,O02067,cash on delivery,paid,998.67
+PAY02068,O02068,card,paid,3538.41
+PAY02069,O02069,cash on delivery,paid,7105.93
+PAY02070,O02070,card,paid,155.78
+PAY02071,O02071,card,paid,2651.22
+PAY02072,O02072,cash on delivery,paid,461.06
+PAY02073,O02073,cash on delivery,paid,4598.47
+PAY02074,O02074,bank transfer,paid,3211.13
+PAY02075,O02075,card,paid,10204.72
+PAY02076,O02076,card,paid,298.93
+PAY02077,O02077,cash on delivery,paid,6436.34
+PAY02078,O02078,card,paid,976.6
+PAY02079,O02079,card,paid,1591.38
+PAY02080,O02080,card,paid,8642.2
+PAY02081,O02081,cash on delivery,paid,3923.75
+PAY02082,O02082,bank transfer,paid,1811.22
+PAY02083,O02083,cash on delivery,paid,8911.77
+PAY02084,O02084,card,paid,660.96
+PAY02085,O02085,cash on delivery,refunded,473.61
+PAY02086,O02086,card,paid,4656.9
+PAY02087,O02087,wallet,paid,4833.21
+PAY02088,O02088,card,paid,15853.57
+PAY02089,O02089,card,paid,4675.62
+PAY02090,O02090,wallet,paid,3182.42
+PAY02091,O02091,card,paid,1761.9
+PAY02092,O02092,cash on delivery,paid,2081.05
+PAY02093,O02093,bank transfer,paid,6651.98
+PAY02094,O02094,card,paid,20623.09
+PAY02095,O02095,card,paid,6614.41
+PAY02096,O02096,card,paid,2045.07
+PAY02097,O02097,card,paid,8016.17
+PAY02098,O02098,card,paid,3245.78
+PAY02099,O02099,cash on delivery,paid,3704.25
+PAY02100,O02100,cash on delivery,paid,1384.57
+PAY02101,O02101,cash on delivery,paid,457.86
+PAY02102,O02102,cash on delivery,paid,1145.15
+PAY02103,O02103,cash on delivery,paid,7503.09
+PAY02104,O02104,card,paid,670.13
+PAY02105,O02105,card,paid,1477.21
+PAY02106,O02106,cash on delivery,paid,3785.3
+PAY02107,O02107,cash on delivery,paid,581.27
+PAY02108,O02108,card,refunded,2407.93
+PAY02109,O02109,wallet,paid,895.7
+PAY02110,O02110,cash on delivery,paid,1026.55
+PAY02111,O02111,card,paid,404.06
+PAY02112,O02112,cash on delivery,paid,271.81
+PAY02113,O02113,bank transfer,paid,20386.47
+PAY02114,O02114,cash on delivery,paid,9219.77
+PAY02115,O02115,bank transfer,paid,4260.98
+PAY02116,O02116,cash on delivery,paid,11256.47
+PAY02117,O02117,card,paid,407.92
+PAY02118,O02118,cash on delivery,paid,11926.13
+PAY02119,O02119,cash on delivery,refunded,1132.66
+PAY02120,O02120,card,paid,3684.61
+PAY02121,O02121,cash on delivery,paid,2074.29
+PAY02122,O02122,cash on delivery,paid,3726.96
+PAY02123,O02123,card,paid,3021.91
+PAY02124,O02124,cash on delivery,paid,12834.31
+PAY02125,O02125,cash on delivery,paid,3722.6
+PAY02126,O02126,cash on delivery,paid,10706.74
+PAY02127,O02127,cash on delivery,paid,1713.25
+PAY02128,O02128,cash on delivery,paid,7015.49
+PAY02129,O02129,card,paid,2692.04
+PAY02130,O02130,card,paid,1589.71
+PAY02131,O02131,card,paid,859.19
+PAY02132,O02132,cash on delivery,paid,1605.83
+PAY02133,O02133,card,paid,10471.83
+PAY02134,O02134,cash on delivery,paid,3561.57
+PAY02135,O02135,bank transfer,paid,3623.94
+PAY02136,O02136,card,paid,3079.15
+PAY02137,O02137,card,paid,416.92
+PAY02138,O02138,bank transfer,refunded,320.08
+PAY02139,O02139,cash on delivery,paid,6541.31
+PAY02140,O02140,bank transfer,paid,1162.17
+PAY02141,O02141,card,paid,263.24
+PAY02142,O02142,cash on delivery,paid,9231.41
+PAY02143,O02143,card,paid,2819.57
+PAY02144,O02144,cash on delivery,paid,914.1
+PAY02145,O02145,card,paid,11090.15
+PAY02146,O02146,wallet,paid,775.27
+PAY02147,O02147,bank transfer,paid,2694.7
+PAY02148,O02148,cash on delivery,paid,11513.4
+PAY02149,O02149,card,paid,8917.21
+PAY02150,O02150,card,paid,3358.8
+PAY02151,O02151,bank transfer,paid,3142.42
+PAY02152,O02152,cash on delivery,paid,7846.94
+PAY02153,O02153,cash on delivery,paid,15223.55
+PAY02154,O02154,wallet,paid,13434.06
+PAY02155,O02155,bank transfer,paid,14992.35
+PAY02156,O02156,card,paid,812.73
+PAY02157,O02157,card,paid,944.58
+PAY02158,O02158,bank transfer,paid,2738.88
+PAY02159,O02159,bank transfer,paid,1243.61
+PAY02160,O02160,bank transfer,paid,5657.9
+PAY02161,O02161,cash on delivery,paid,1187.32
+PAY02162,O02162,cash on delivery,paid,12367.31
+PAY02163,O02163,card,paid,2862.96
+PAY02164,O02164,cash on delivery,paid,2362.81
+PAY02165,O02165,cash on delivery,paid,2563.42
+PAY02166,O02166,wallet,paid,5459.8
+PAY02167,O02167,bank transfer,paid,3047.57
+PAY02168,O02168,card,paid,325.65
+PAY02169,O02169,card,paid,889.1
+PAY02170,O02170,cash on delivery,paid,10146.29
+PAY02171,O02171,cash on delivery,paid,1028.52
+PAY02172,O02172,cash on delivery,paid,3287.13
+PAY02173,O02173,cash on delivery,paid,13629.05
+PAY02174,O02174,wallet,paid,7254.95
+PAY02175,O02175,cash on delivery,paid,12525.12
+PAY02176,O02176,bank transfer,paid,73.63
+PAY02177,O02177,cash on delivery,paid,6898.9
+PAY02178,O02178,card,paid,3223.66
+PAY02179,O02179,card,paid,14166.93
+PAY02180,O02180,bank transfer,paid,824.08
+PAY02181,O02181,card,paid,1937.48
+PAY02182,O02182,cash on delivery,paid,12649.06
+PAY02183,O02183,card,paid,6976.16
+PAY02184,O02184,cash on delivery,paid,2663.15
+PAY02185,O02185,bank transfer,paid,3010.04
+PAY02186,O02186,wallet,paid,1200.5
+PAY02187,O02187,cash on delivery,paid,5142.78
+PAY02188,O02188,card,paid,2375.08
+PAY02189,O02189,cash on delivery,paid,6064.52
+PAY02190,O02190,card,paid,12481.45
+PAY02191,O02191,card,paid,14818.52
+PAY02192,O02192,bank transfer,paid,7077.19
+PAY02193,O02193,bank transfer,paid,1219.76
+PAY02194,O02194,bank transfer,paid,2444.28
+PAY02195,O02195,card,paid,3736.96
+PAY02196,O02196,card,paid,4481.31
+PAY02197,O02197,wallet,paid,5353.66
+PAY02198,O02198,bank transfer,paid,1376.12
+PAY02199,O02199,cash on delivery,failed,3347.26
+PAY02200,O02200,card,paid,4171.92
+PAY02201,O02201,cash on delivery,paid,8068.73
+PAY02202,O02202,bank transfer,paid,5035.64
+PAY02203,O02203,card,paid,1107.66
+PAY02204,O02204,bank transfer,paid,1440.89
+PAY02205,O02205,card,paid,3722.02
+PAY02206,O02206,cash on delivery,paid,700.42
+PAY02207,O02207,cash on delivery,paid,3205.2
+PAY02208,O02208,card,paid,170.78
+PAY02209,O02209,card,paid,8228.6
+PAY02210,O02210,card,paid,690.14
+PAY02211,O02211,cash on delivery,paid,255.31
+PAY02212,O02212,cash on delivery,paid,660.11
+PAY02213,O02213,cash on delivery,paid,1969.02
+PAY02214,O02214,card,paid,7341.8
+PAY02215,O02215,wallet,paid,11844.28
+PAY02216,O02216,cash on delivery,paid,1648.61
+PAY02217,O02217,cash on delivery,refunded,552.64
+PAY02218,O02218,card,paid,8065.52
+PAY02219,O02219,cash on delivery,paid,3858.62
+PAY02220,O02220,bank transfer,paid,5765.39
+PAY02221,O02221,card,paid,644.75
+PAY02222,O02222,cash on delivery,paid,627.74
+PAY02223,O02223,cash on delivery,paid,248.36
+PAY02224,O02224,card,paid,6775.24
+PAY02225,O02225,cash on delivery,paid,2219.16
+PAY02226,O02226,card,paid,8606.21
+PAY02227,O02227,cash on delivery,paid,276.86
+PAY02228,O02228,cash on delivery,paid,1431.57
+PAY02229,O02229,cash on delivery,paid,2526.87
+PAY02230,O02230,card,paid,7518.76
+PAY02231,O02231,cash on delivery,paid,11413.55
+PAY02232,O02232,cash on delivery,paid,7737.95
+PAY02233,O02233,bank transfer,paid,4347.88
+PAY02234,O02234,card,paid,580.7
+PAY02235,O02235,card,paid,6458.01
+PAY02236,O02236,bank transfer,paid,1593.71
+PAY02237,O02237,card,paid,2250.08
+PAY02238,O02238,card,paid,4656.9
+PAY02239,O02239,bank transfer,paid,819.02
+PAY02240,O02240,cash on delivery,paid,2050.07
+PAY02241,O02241,wallet,paid,16753.55
+PAY02242,O02242,card,paid,179.76
+PAY02243,O02243,card,paid,355.08
+PAY02244,O02244,card,paid,526.16
+PAY02245,O02245,cash on delivery,paid,16727.76
+PAY02246,O02246,card,paid,177.3
+PAY02247,O02247,card,paid,3743.84
+PAY02248,O02248,card,paid,585.33
+PAY02249,O02249,bank transfer,paid,22970.93
+PAY02250,O02250,bank transfer,paid,8157.56
+PAY02251,O02251,card,paid,1503.62
+PAY02252,O02252,bank transfer,paid,2038.74
+PAY02253,O02253,cash on delivery,paid,2773.03
+PAY02254,O02254,wallet,paid,51.54
+PAY02255,O02255,wallet,paid,4514.59
+PAY02256,O02256,cash on delivery,paid,2814.32
+PAY02257,O02257,bank transfer,refunded,827.56
+PAY02258,O02258,cash on delivery,paid,2346.41
+PAY02259,O02259,cash on delivery,paid,2189.92
+PAY02260,O02260,card,paid,1626.78
+PAY02261,O02261,cash on delivery,paid,1490.55
+PAY02262,O02262,cash on delivery,paid,501.96
+PAY02263,O02263,cash on delivery,paid,5230.76
+PAY02264,O02264,card,paid,2726.46
+PAY02265,O02265,bank transfer,paid,5970.04
+PAY02266,O02266,bank transfer,paid,3454.59
+PAY02267,O02267,card,refunded,723.77
+PAY02268,O02268,cash on delivery,paid,14080.97
+PAY02269,O02269,card,paid,1364.67
+PAY02270,O02270,card,paid,389.19
+PAY02271,O02271,cash on delivery,paid,231.08
+PAY02272,O02272,card,paid,3856.23
+PAY02273,O02273,cash on delivery,paid,2296.08
+PAY02274,O02274,cash on delivery,paid,1276.94
+PAY02275,O02275,cash on delivery,paid,6434.29
+PAY02276,O02276,card,paid,6026.8
+PAY02277,O02277,bank transfer,paid,7000.55
+PAY02278,O02278,card,paid,1015.29
+PAY02279,O02279,card,paid,2120.03
+PAY02280,O02280,card,paid,2120.73
+PAY02281,O02281,card,paid,7743.97
+PAY02282,O02282,card,refunded,1300.14
+PAY02283,O02283,cash on delivery,paid,12410.79
+PAY02284,O02284,card,paid,3630.5
+PAY02285,O02285,wallet,paid,107.76
+PAY02286,O02286,cash on delivery,paid,6788.31
+PAY02287,O02287,card,paid,16420.2
+PAY02288,O02288,bank transfer,paid,2826.84
+PAY02289,O02289,cash on delivery,paid,3261.65
+PAY02290,O02290,cash on delivery,paid,16829.66
+PAY02291,O02291,card,paid,3827.47
+PAY02292,O02292,cash on delivery,refunded,16810.6
+PAY02293,O02293,card,paid,222.22
+PAY02294,O02294,cash on delivery,paid,7427.65
+PAY02295,O02295,bank transfer,failed,1379.65
+PAY02296,O02296,cash on delivery,paid,2307.86
+PAY02297,O02297,card,paid,3683.02
+PAY02298,O02298,wallet,paid,2388.7
+PAY02299,O02299,cash on delivery,paid,2947.42
+PAY02300,O02300,cash on delivery,paid,3445.15
+PAY02301,O02301,card,paid,11930.39
+PAY02302,O02302,card,paid,712.8
+PAY02303,O02303,bank transfer,paid,9848.54
+PAY02304,O02304,card,paid,1102.02
+PAY02305,O02305,card,paid,19981.87
+PAY02306,O02306,wallet,paid,5395.95
+PAY02307,O02307,card,paid,3812.12
+PAY02308,O02308,wallet,paid,2359.64
+PAY02309,O02309,card,paid,2232.31
+PAY02310,O02310,cash on delivery,paid,5079.42
+PAY02311,O02311,card,paid,188.08
+PAY02312,O02312,card,paid,21685.22
+PAY02313,O02313,card,paid,1536.22
+PAY02314,O02314,bank transfer,paid,6118.02
+PAY02315,O02315,cash on delivery,paid,164.46
+PAY02316,O02316,cash on delivery,paid,13424.66
+PAY02317,O02317,card,paid,1336.12
+PAY02318,O02318,cash on delivery,paid,6022.14
+PAY02319,O02319,bank transfer,paid,821.23
+PAY02320,O02320,cash on delivery,paid,2243.55
+PAY02321,O02321,cash on delivery,refunded,373.57
+PAY02322,O02322,cash on delivery,paid,9733.83
+PAY02323,O02323,bank transfer,paid,6904.42
+PAY02324,O02324,wallet,paid,1895.36
+PAY02325,O02325,card,paid,8984.64
+PAY02326,O02326,card,paid,318.77
+PAY02327,O02327,card,paid,1587.24
+PAY02328,O02328,cash on delivery,paid,6403.92
+PAY02329,O02329,card,paid,3004.77
+PAY02330,O02330,cash on delivery,paid,6294.27
+PAY02331,O02331,cash on delivery,paid,846.0
+PAY02332,O02332,card,paid,16236.87
+PAY02333,O02333,card,paid,202.39
+PAY02334,O02334,wallet,refunded,2293.41
+PAY02335,O02335,cash on delivery,paid,4641.9
+PAY02336,O02336,cash on delivery,paid,244.14
+PAY02337,O02337,card,paid,2930.89
+PAY02338,O02338,cash on delivery,paid,3377.66
+PAY02339,O02339,cash on delivery,paid,7951.76
+PAY02340,O02340,wallet,paid,3708.08
+PAY02341,O02341,cash on delivery,paid,15772.2
+PAY02342,O02342,card,refunded,1205.63
+PAY02343,O02343,card,paid,1080.24
+PAY02344,O02344,wallet,paid,4575.61
+PAY02345,O02345,cash on delivery,paid,165.22
+PAY02346,O02346,card,paid,9988.59
+PAY02347,O02347,cash on delivery,paid,3993.63
+PAY02348,O02348,card,paid,5288.88
+PAY02349,O02349,card,paid,2193.35
+PAY02350,O02350,card,paid,13895.0
+PAY02351,O02351,card,paid,691.19
+PAY02352,O02352,cash on delivery,paid,9081.6
+PAY02353,O02353,bank transfer,paid,9137.72
+PAY02354,O02354,cash on delivery,paid,12349.76
+PAY02355,O02355,cash on delivery,paid,4340.88
+PAY02356,O02356,card,paid,3489.51
+PAY02357,O02357,cash on delivery,paid,479.91
+PAY02358,O02358,card,paid,6491.79
+PAY02359,O02359,wallet,paid,427.86
+PAY02360,O02360,wallet,paid,169.73
+PAY02361,O02361,card,paid,7067.1
+PAY02362,O02362,wallet,paid,10620.65
+PAY02363,O02363,card,refunded,2148.15
+PAY02364,O02364,cash on delivery,paid,2111.46
+PAY02365,O02365,cash on delivery,paid,17148.31
+PAY02366,O02366,card,paid,753.25
+PAY02367,O02367,cash on delivery,paid,1585.47
+PAY02368,O02368,cash on delivery,paid,2080.48
+PAY02369,O02369,card,paid,2566.3
+PAY02370,O02370,bank transfer,paid,7207.03
+PAY02371,O02371,cash on delivery,paid,1665.81
+PAY02372,O02372,cash on delivery,paid,203.92
+PAY02373,O02373,cash on delivery,paid,3047.04
+PAY02374,O02374,cash on delivery,paid,14490.68
+PAY02375,O02375,cash on delivery,failed,1346.8
+PAY02376,O02376,card,paid,80.64
+PAY02377,O02377,card,paid,12011.66
+PAY02378,O02378,card,paid,717.8
+PAY02379,O02379,cash on delivery,paid,1180.02
+PAY02380,O02380,cash on delivery,paid,8404.14
+PAY02381,O02381,cash on delivery,paid,206.63
+PAY02382,O02382,card,paid,7324.87
+PAY02383,O02383,cash on delivery,paid,12419.25
+PAY02384,O02384,bank transfer,paid,3161.05
+PAY02385,O02385,cash on delivery,paid,3142.42
+PAY02386,O02386,cash on delivery,paid,3938.87
+PAY02387,O02387,card,paid,5696.27
+PAY02388,O02388,cash on delivery,paid,17073.25
+PAY02389,O02389,cash on delivery,paid,6525.63
+PAY02390,O02390,card,paid,8818.69
+PAY02391,O02391,bank transfer,paid,849.08
+PAY02392,O02392,bank transfer,paid,861.87
+PAY02393,O02393,cash on delivery,paid,1589.76
+PAY02394,O02394,card,paid,2025.6
+PAY02395,O02395,cash on delivery,refunded,6643.89
+PAY02396,O02396,card,paid,1761.41
+PAY02397,O02397,card,paid,4686.9
+PAY02398,O02398,cash on delivery,paid,3053.78
+PAY02399,O02399,wallet,paid,783.14
+PAY02400,O02400,card,paid,2739.31
+PAY02401,O02401,card,paid,10327.88
+PAY02402,O02402,card,paid,604.3
+PAY02403,O02403,card,paid,1691.17
+PAY02404,O02404,cash on delivery,paid,1682.66
+PAY02405,O02405,bank transfer,paid,1846.48
+PAY02406,O02406,card,paid,955.25
+PAY02407,O02407,cash on delivery,paid,262.13
+PAY02408,O02408,bank transfer,paid,7310.2
+PAY02409,O02409,cash on delivery,paid,499.9
+PAY02410,O02410,card,paid,1955.15
+PAY02411,O02411,cash on delivery,paid,6085.08
+PAY02412,O02412,cash on delivery,paid,1534.05
+PAY02413,O02413,card,paid,1801.22
+PAY02414,O02414,card,paid,3428.59
+PAY02415,O02415,wallet,paid,4419.24
+PAY02416,O02416,card,paid,5938.12
+PAY02417,O02417,cash on delivery,paid,4332.77
+PAY02418,O02418,card,paid,3885.45
+PAY02419,O02419,card,paid,11999.14
+PAY02420,O02420,card,paid,11547.47
+PAY02421,O02421,cash on delivery,paid,1071.13
+PAY02422,O02422,card,paid,516.96
+PAY02423,O02423,cash on delivery,paid,1304.44
+PAY02424,O02424,bank transfer,paid,177.82
+PAY02425,O02425,bank transfer,paid,1812.36
+PAY02426,O02426,card,paid,1070.24
+PAY02427,O02427,card,paid,16429.59
+PAY02428,O02428,cash on delivery,paid,4995.18
+PAY02429,O02429,card,paid,11708.28
+PAY02430,O02430,wallet,paid,1070.24
+PAY02431,O02431,card,paid,2325.18
+PAY02432,O02432,cash on delivery,paid,4330.88
+PAY02433,O02433,card,paid,5301.23
+PAY02434,O02434,wallet,paid,5504.53
+PAY02435,O02435,cash on delivery,paid,406.76
+PAY02436,O02436,card,paid,453.82
+PAY02437,O02437,cash on delivery,refunded,2453.16
+PAY02438,O02438,cash on delivery,paid,171.4
+PAY02439,O02439,card,paid,3828.26
+PAY02440,O02440,card,paid,3057.7
+PAY02441,O02441,card,paid,3409.42
+PAY02442,O02442,card,paid,738.22
+PAY02443,O02443,wallet,paid,2160.31
+PAY02444,O02444,card,paid,1645.34
+PAY02445,O02445,bank transfer,paid,10581.99
+PAY02446,O02446,card,paid,4602.47
+PAY02447,O02447,card,paid,1224.98
+PAY02448,O02448,bank transfer,paid,2778.03
+PAY02449,O02449,cash on delivery,paid,881.0
+PAY02450,O02450,cash on delivery,paid,1305.14
+PAY02451,O02451,cash on delivery,paid,426.57
+PAY02452,O02452,wallet,paid,108.02
+PAY02453,O02453,wallet,paid,7284.67
+PAY02454,O02454,wallet,paid,6969.22
+PAY02455,O02455,card,paid,7759.58
+PAY02456,O02456,bank transfer,paid,1564.02
+PAY02457,O02457,cash on delivery,paid,4026.2
+PAY02458,O02458,cash on delivery,paid,6412.73
+PAY02459,O02459,cash on delivery,paid,1460.92
+PAY02460,O02460,card,paid,5055.58
+PAY02461,O02461,cash on delivery,paid,8558.87
+PAY02462,O02462,cash on delivery,paid,21857.15
+PAY02463,O02463,card,paid,5335.52
+PAY02464,O02464,cash on delivery,paid,7700.73
+PAY02465,O02465,cash on delivery,paid,2054.18
+PAY02466,O02466,card,paid,817.48
+PAY02467,O02467,bank transfer,paid,3507.18
+PAY02468,O02468,cash on delivery,paid,2429.28
+PAY02469,O02469,card,paid,5410.96
+PAY02470,O02470,card,paid,2009.11
+PAY02471,O02471,cash on delivery,paid,4608.47
+PAY02472,O02472,card,paid,11759.5
+PAY02473,O02473,card,paid,272.77
+PAY02474,O02474,cash on delivery,paid,8825.21
+PAY02475,O02475,card,paid,14586.45
+PAY02476,O02476,cash on delivery,paid,10554.45
+PAY02477,O02477,card,paid,114.26
+PAY02478,O02478,cash on delivery,paid,13107.23
+PAY02479,O02479,card,paid,2050.07
+PAY02480,O02480,cash on delivery,paid,166.5
+PAY02481,O02481,wallet,paid,12118.86
+PAY02482,O02482,card,paid,6888.04
+PAY02483,O02483,card,paid,5486.23
+PAY02484,O02484,cash on delivery,paid,5158.65
+PAY02485,O02485,card,paid,3692.89
+PAY02486,O02486,cash on delivery,paid,81.42
+PAY02487,O02487,card,paid,397.74
+PAY02488,O02488,cash on delivery,paid,3712.9
+PAY02489,O02489,cash on delivery,paid,2382.21
+PAY02490,O02490,cash on delivery,paid,3807.77
+PAY02491,O02491,cash on delivery,paid,1526.22
+PAY02492,O02492,card,paid,7509.54
+PAY02493,O02493,bank transfer,paid,646.8
+PAY02494,O02494,cash on delivery,paid,8271.17
+PAY02495,O02495,cash on delivery,paid,278.8
+PAY02496,O02496,wallet,paid,6890.35
+PAY02497,O02497,cash on delivery,paid,9443.88
+PAY02498,O02498,cash on delivery,paid,23788.2
+PAY02499,O02499,cash on delivery,paid,159.73
+PAY02500,O02500,cash on delivery,paid,2041.99
+PAY02501,O02501,wallet,paid,1582.93
+PAY02502,O02502,cash on delivery,paid,3919.64
+PAY02503,O02503,cash on delivery,paid,162.87
+PAY02504,O02504,wallet,refunded,4257.28
+PAY02505,O02505,card,paid,7279.44
+PAY02506,O02506,cash on delivery,paid,2744.56
+PAY02507,O02507,card,paid,4344.8
+PAY02508,O02508,bank transfer,paid,3245.78
+PAY02509,O02509,card,paid,1956.66
+PAY02510,O02510,wallet,paid,154.73
+PAY02511,O02511,cash on delivery,paid,3297.06
+PAY02512,O02512,cash on delivery,paid,3353.14
+PAY02513,O02513,wallet,paid,20741.78
+PAY02514,O02514,card,paid,3183.24
+PAY02515,O02515,bank transfer,paid,3827.53
+PAY02516,O02516,bank transfer,paid,3142.42
+PAY02517,O02517,cash on delivery,failed,8515.66
+PAY02518,O02518,card,refunded,4102.56
+PAY02519,O02519,cash on delivery,paid,4369.8
+PAY02520,O02520,card,paid,5716.33
+PAY02521,O02521,cash on delivery,paid,926.18
+PAY02522,O02522,wallet,paid,2396.65
+PAY02523,O02523,card,paid,506.64
+PAY02524,O02524,cash on delivery,paid,184.46
+PAY02525,O02525,bank transfer,paid,1244.98
+PAY02526,O02526,cash on delivery,refunded,11202.19
+PAY02527,O02527,cash on delivery,paid,155.78
+PAY02528,O02528,cash on delivery,paid,753.22
+PAY02529,O02529,card,paid,3589.98
+PAY02530,O02530,card,paid,9063.28
+PAY02531,O02531,bank transfer,paid,4715.15
+PAY02532,O02532,cash on delivery,paid,13833.35
+PAY02533,O02533,bank transfer,paid,2218.72
+PAY02534,O02534,cash on delivery,paid,11728.28
+PAY02535,O02535,card,paid,10725.87
+PAY02536,O02536,cash on delivery,paid,13069.39
+PAY02537,O02537,wallet,paid,6434.29
+PAY02538,O02538,wallet,paid,690.14
+PAY02539,O02539,card,refunded,7413.92
+PAY02540,O02540,cash on delivery,paid,15045.1
+PAY02541,O02541,cash on delivery,paid,6819.98
+PAY02542,O02542,cash on delivery,paid,115.78
+PAY02543,O02543,bank transfer,paid,1560.73
+PAY02544,O02544,cash on delivery,paid,6784.94
+PAY02545,O02545,card,paid,2893.76
+PAY02546,O02546,cash on delivery,paid,3483.7
+PAY02547,O02547,card,paid,651.87
+PAY02548,O02548,card,paid,749.55
+PAY02549,O02549,cash on delivery,paid,4598.47
+PAY02550,O02550,cash on delivery,paid,5902.95
+PAY02551,O02551,card,paid,3095.67
+PAY02552,O02552,cash on delivery,paid,2829.47
+PAY02553,O02553,cash on delivery,refunded,240.29
+PAY02554,O02554,card,paid,8349.26
+PAY02555,O02555,cash on delivery,paid,10544.12
+PAY02556,O02556,cash on delivery,paid,3863.14
+PAY02557,O02557,card,refunded,17364.73
+PAY02558,O02558,cash on delivery,paid,8144.5
+PAY02559,O02559,card,paid,6445.19
+PAY02560,O02560,card,paid,1411.99
+PAY02561,O02561,cash on delivery,paid,868.62
+PAY02562,O02562,wallet,paid,11323.31
+PAY02563,O02563,card,paid,9841.19
+PAY02564,O02564,cash on delivery,paid,6176.02
+PAY02565,O02565,card,paid,944.85
+PAY02566,O02566,card,paid,4228.15
+PAY02567,O02567,cash on delivery,paid,4321.25
+PAY02568,O02568,card,failed,3479.29
+PAY02569,O02569,card,paid,6085.08
+PAY02570,O02570,bank transfer,paid,5399.87
+PAY02571,O02571,wallet,paid,2408.69
+PAY02572,O02572,card,paid,392.74
+PAY02573,O02573,card,refunded,14078.48
+PAY02574,O02574,card,paid,5950.89
+PAY02575,O02575,card,paid,1451.99
+PAY02576,O02576,cash on delivery,paid,2349.2
+PAY02577,O02577,card,paid,132.76
+PAY02578,O02578,cash on delivery,paid,12424.65
+PAY02579,O02579,card,paid,216.73
+PAY02580,O02580,cash on delivery,paid,4333.02
+PAY02581,O02581,wallet,paid,19662.19
+PAY02582,O02582,card,paid,3704.25
+PAY02583,O02583,card,paid,10765.63
+PAY02584,O02584,card,paid,9508.55
+PAY02585,O02585,card,paid,10961.87
+PAY02586,O02586,card,paid,2293.19
+PAY02587,O02587,card,paid,2288.76
+PAY02588,O02588,card,paid,236.75
+PAY02589,O02589,wallet,refunded,5115.32
+PAY02590,O02590,card,paid,457.83
+PAY02591,O02591,cash on delivery,paid,8047.7
+PAY02592,O02592,card,paid,11540.02
+PAY02593,O02593,card,paid,871.87
+PAY02594,O02594,card,paid,4312.76
+PAY02595,O02595,cash on delivery,paid,14824.72
+PAY02596,O02596,cash on delivery,paid,192.87
+PAY02597,O02597,card,paid,3630.23
+PAY02598,O02598,bank transfer,paid,12076.75
+PAY02599,O02599,bank transfer,paid,652.9
+PAY02600,O02600,cash on delivery,failed,490.54
+PAY02601,O02601,card,paid,179.27
+PAY02602,O02602,cash on delivery,paid,916.18
+PAY02603,O02603,card,paid,6714.83
+PAY02604,O02604,cash on delivery,paid,125.61
+PAY02605,O02605,cash on delivery,paid,12578.25
+PAY02606,O02606,card,paid,9592.19
+PAY02607,O02607,cash on delivery,paid,3812.85
+PAY02608,O02608,cash on delivery,failed,215.93
+PAY02609,O02609,cash on delivery,paid,7625.7
+PAY02610,O02610,cash on delivery,paid,9591.54
+PAY02611,O02611,card,paid,1147.98
+PAY02612,O02612,wallet,paid,3212.45
+PAY02613,O02613,card,paid,9478.62
+PAY02614,O02614,bank transfer,paid,2688.54
+PAY02615,O02615,cash on delivery,paid,216.92
+PAY02616,O02616,cash on delivery,paid,8267.48
+PAY02617,O02617,bank transfer,paid,3510.37
+PAY02618,O02618,card,paid,1229.34
+PAY02619,O02619,cash on delivery,paid,15052.98
+PAY02620,O02620,cash on delivery,paid,5283.82
+PAY02621,O02621,cash on delivery,refunded,5655.6
+PAY02622,O02622,card,paid,5550.38
+PAY02623,O02623,bank transfer,paid,11976.16
+PAY02624,O02624,bank transfer,paid,7095.34
+PAY02625,O02625,card,paid,6045.29
+PAY02626,O02626,cash on delivery,paid,2525.87
+PAY02627,O02627,cash on delivery,paid,8140.93
+PAY02628,O02628,cash on delivery,paid,7412.96
+PAY02629,O02629,cash on delivery,paid,3052.03
+PAY02630,O02630,cash on delivery,paid,11535.02
+PAY02631,O02631,card,refunded,10514.12
+PAY02632,O02632,card,paid,4944.26
+PAY02633,O02633,cash on delivery,paid,406.57
+PAY02634,O02634,card,paid,12096.59
+PAY02635,O02635,bank transfer,paid,10770.54
+PAY02636,O02636,card,paid,1539.05
+PAY02637,O02637,card,paid,1957.42
+PAY02638,O02638,cash on delivery,paid,1137.45
+PAY02639,O02639,cash on delivery,paid,5152.85
+PAY02640,O02640,cash on delivery,paid,13066.17
+PAY02641,O02641,card,paid,1946.66
+PAY02642,O02642,bank transfer,paid,11730.21
+PAY02643,O02643,cash on delivery,paid,2075.07
+PAY02644,O02644,card,paid,5869.14
+PAY02645,O02645,card,paid,9841.29
+PAY02646,O02646,cash on delivery,paid,2065.07
+PAY02647,O02647,card,paid,3858.14
+PAY02648,O02648,cash on delivery,paid,21382.57
+PAY02649,O02649,card,paid,1686.29
+PAY02650,O02650,card,paid,9659.08
+PAY02651,O02651,cash on delivery,paid,2730.88
+PAY02652,O02652,card,paid,4612.24
+PAY02653,O02653,cash on delivery,paid,19879.5
+PAY02654,O02654,card,paid,8877.49
+PAY02655,O02655,cash on delivery,paid,3875.75
+PAY02656,O02656,cash on delivery,paid,5834.63
+PAY02657,O02657,cash on delivery,paid,241.8
+PAY02658,O02658,cash on delivery,paid,1872.71
+PAY02659,O02659,card,paid,567.18
+PAY02660,O02660,cash on delivery,paid,2532.82
+PAY02661,O02661,card,paid,5539.59
+PAY02662,O02662,cash on delivery,paid,3927.43
+PAY02663,O02663,card,paid,2367.81
+PAY02664,O02664,wallet,paid,2991.85
+PAY02665,O02665,card,paid,3907.02
+PAY02666,O02666,cash on delivery,paid,974.81
+PAY02667,O02667,cash on delivery,refunded,888.71
+PAY02668,O02668,card,paid,7427.52
+PAY02669,O02669,cash on delivery,paid,5665.26
+PAY02670,O02670,cash on delivery,paid,1859.16
+PAY02671,O02671,card,paid,5808.27
+PAY02672,O02672,cash on delivery,paid,1862.62
+PAY02673,O02673,cash on delivery,paid,2988.27
+PAY02674,O02674,card,paid,7628.9
+PAY02675,O02675,wallet,failed,253.48
+PAY02676,O02676,cash on delivery,paid,1673.38
+PAY02677,O02677,card,paid,2753.03
+PAY02678,O02678,cash on delivery,paid,13950.02
+PAY02679,O02679,bank transfer,paid,4297.93
+PAY02680,O02680,card,paid,1214.5
+PAY02681,O02681,card,paid,4162.56
+PAY02682,O02682,card,paid,702.8
+PAY02683,O02683,bank transfer,paid,288.17
+PAY02684,O02684,cash on delivery,paid,4826.43
+PAY02685,O02685,cash on delivery,refunded,143.32
+PAY02686,O02686,card,paid,1682.86
+PAY02687,O02687,cash on delivery,paid,227.92
+PAY02688,O02688,wallet,paid,5551.58
+PAY02689,O02689,cash on delivery,paid,2865.29
+PAY02690,O02690,cash on delivery,paid,11116.91
+PAY02691,O02691,cash on delivery,paid,13802.43
+PAY02692,O02692,cash on delivery,paid,1404.65
+PAY02693,O02693,cash on delivery,paid,3929.11
+PAY02694,O02694,cash on delivery,paid,9861.44
+PAY02695,O02695,bank transfer,paid,723.23
+PAY02696,O02696,bank transfer,paid,503.63
+PAY02697,O02697,bank transfer,paid,1379.37
+PAY02698,O02698,card,paid,746.66
+PAY02699,O02699,cash on delivery,paid,2894.61
+PAY02700,O02700,card,paid,4122.56
+PAY02701,O02701,cash on delivery,paid,5699.7
+PAY02702,O02702,cash on delivery,paid,11290.81
+PAY02703,O02703,bank transfer,paid,7812.68
+PAY02704,O02704,cash on delivery,paid,7732.0
+PAY02705,O02705,card,paid,1452.25
+PAY02706,O02706,card,paid,6948.88
+PAY02707,O02707,cash on delivery,paid,6434.19
+PAY02708,O02708,card,paid,6939.01
+PAY02709,O02709,card,paid,7370.89
+PAY02710,O02710,bank transfer,paid,1204.0
+PAY02711,O02711,bank transfer,refunded,246.62
+PAY02712,O02712,cash on delivery,refunded,4584.87
+PAY02713,O02713,card,failed,6593.14
+PAY02714,O02714,card,paid,256.62
+PAY02715,O02715,bank transfer,paid,6425.17
+PAY02716,O02716,cash on delivery,paid,187.2
+PAY02717,O02717,card,paid,5016.38
+PAY02718,O02718,wallet,paid,1046.07
+PAY02719,O02719,card,paid,6161.91
+PAY02720,O02720,bank transfer,paid,2624.23
+PAY02721,O02721,card,refunded,279.92
+PAY02722,O02722,cash on delivery,paid,2248.04
+PAY02723,O02723,card,paid,9170.03
+PAY02724,O02724,cash on delivery,paid,10061.39
+PAY02725,O02725,bank transfer,paid,5429.07
+PAY02726,O02726,bank transfer,paid,2008.64
+PAY02727,O02727,card,paid,2565.13
+PAY02728,O02728,bank transfer,paid,188.05
+PAY02729,O02729,card,paid,1044.74
+PAY02730,O02730,bank transfer,paid,11731.24
+PAY02731,O02731,cash on delivery,paid,6779.85
+PAY02732,O02732,bank transfer,paid,11120.4
+PAY02733,O02733,cash on delivery,paid,10068.77
+PAY02734,O02734,card,paid,1762.9
+PAY02735,O02735,card,paid,7836.11
+PAY02736,O02736,card,paid,281.14
+PAY02737,O02737,card,paid,1353.19
+PAY02738,O02738,card,paid,7656.23
+PAY02739,O02739,card,paid,3496.14
+PAY02740,O02740,card,paid,1080.31
+PAY02741,O02741,cash on delivery,paid,10151.84
+PAY02742,O02742,cash on delivery,paid,5446.12
+PAY02743,O02743,card,refunded,3615.75
+PAY02744,O02744,cash on delivery,paid,4794.08
+PAY02745,O02745,card,paid,9757.53
+PAY02746,O02746,card,paid,2226.91
+PAY02747,O02747,card,paid,540.54
+PAY02748,O02748,cash on delivery,paid,4303.64
+PAY02749,O02749,cash on delivery,paid,6044.94
+PAY02750,O02750,bank transfer,paid,8508.23
+PAY02751,O02751,cash on delivery,paid,11836.79
+PAY02752,O02752,cash on delivery,paid,13793.55
+PAY02753,O02753,card,paid,17535.52
+PAY02754,O02754,card,paid,2070.47
+PAY02755,O02755,card,paid,4621.84
+PAY02756,O02756,card,paid,4627.63
+PAY02757,O02757,cash on delivery,paid,3448.86
+PAY02758,O02758,cash on delivery,paid,168.54
+PAY02759,O02759,card,paid,2110.73
+PAY02760,O02760,cash on delivery,paid,2623.18
+PAY02761,O02761,cash on delivery,paid,2369.43
+PAY02762,O02762,cash on delivery,paid,3475.18
+PAY02763,O02763,cash on delivery,paid,8111.34
+PAY02764,O02764,card,paid,7233.63
+PAY02765,O02765,cash on delivery,paid,763.96
+PAY02766,O02766,cash on delivery,paid,3832.68
+PAY02767,O02767,cash on delivery,paid,3616.23
+PAY02768,O02768,cash on delivery,paid,16152.23
+PAY02769,O02769,bank transfer,paid,98.02
+PAY02770,O02770,card,paid,3243.66
+PAY02771,O02771,card,paid,14887.06
+PAY02772,O02772,card,paid,8192.66
+PAY02773,O02773,bank transfer,refunded,3944.0
+PAY02774,O02774,cash on delivery,paid,246.81
+PAY02775,O02775,card,paid,697.78
+PAY02776,O02776,cash on delivery,refunded,3253.64
+PAY02777,O02777,cash on delivery,paid,3365.86
+PAY02778,O02778,card,paid,5044.33
+PAY02779,O02779,card,paid,11138.51
+PAY02780,O02780,card,refunded,14358.31
+PAY02781,O02781,bank transfer,paid,1117.56
+PAY02782,O02782,card,paid,538.78
+PAY02783,O02783,card,paid,171.34
+PAY02784,O02784,cash on delivery,paid,18473.52
+PAY02785,O02785,cash on delivery,paid,2453.73
+PAY02786,O02786,card,paid,3380.68
+PAY02787,O02787,bank transfer,paid,6642.7
+PAY02788,O02788,bank transfer,paid,6622.39
+PAY02789,O02789,card,paid,9801.42
+PAY02790,O02790,card,paid,1870.33
+PAY02791,O02791,cash on delivery,paid,6335.09
+PAY02792,O02792,card,paid,10542.88
+PAY02793,O02793,card,paid,2654.75
+PAY02794,O02794,cash on delivery,paid,2481.62
+PAY02795,O02795,wallet,paid,693.06
+PAY02796,O02796,bank transfer,paid,1357.11
+PAY02797,O02797,card,paid,17984.95
+PAY02798,O02798,wallet,paid,1337.83
+PAY02799,O02799,cash on delivery,paid,2790.38
+PAY02800,O02800,cash on delivery,paid,2729.54
+PAY02801,O02801,cash on delivery,paid,16554.17
+PAY02802,O02802,cash on delivery,paid,503.63
+PAY02803,O02803,wallet,paid,6216.0
+PAY02804,O02804,bank transfer,paid,6509.36
+PAY02805,O02805,card,failed,7457.26
+PAY02806,O02806,cash on delivery,paid,155.57
+PAY02807,O02807,cash on delivery,paid,18596.54
+PAY02808,O02808,card,paid,2055.68
+PAY02809,O02809,card,paid,7612.86
+PAY02810,O02810,card,paid,10043.66
+PAY02811,O02811,card,paid,88.02
+PAY02812,O02812,cash on delivery,paid,622.74
+PAY02813,O02813,bank transfer,paid,1618.71
+PAY02814,O02814,cash on delivery,paid,4413.94
+PAY02815,O02815,card,paid,812.27
+PAY02816,O02816,bank transfer,paid,5533.65
+PAY02817,O02817,cash on delivery,paid,5908.66
+PAY02818,O02818,bank transfer,paid,292.08
+PAY02819,O02819,card,paid,6039.39
+PAY02820,O02820,bank transfer,paid,922.13
+PAY02821,O02821,cash on delivery,paid,3264.36
+PAY02822,O02822,cash on delivery,paid,5509.59
+PAY02823,O02823,cash on delivery,paid,2095.47
+PAY02824,O02824,cash on delivery,paid,3612.03
+PAY02825,O02825,cash on delivery,paid,12798.58
+PAY02826,O02826,cash on delivery,paid,724.42
+PAY02827,O02827,cash on delivery,paid,2098.68
+PAY02828,O02828,card,failed,409.06
+PAY02829,O02829,card,paid,695.42
+PAY02830,O02830,wallet,paid,470.95
+PAY02831,O02831,card,paid,6853.79
+PAY02832,O02832,card,paid,769.76
+PAY02833,O02833,card,paid,9455.89
+PAY02834,O02834,cash on delivery,paid,1850.06
+PAY02835,O02835,cash on delivery,paid,5595.92
+PAY02836,O02836,cash on delivery,paid,4004.25
+PAY02837,O02837,cash on delivery,paid,5894.83
+PAY02838,O02838,cash on delivery,paid,777.17
+PAY02839,O02839,card,paid,4228.15
+PAY02840,O02840,cash on delivery,paid,4842.88
+PAY02841,O02841,cash on delivery,paid,832.71
+PAY02842,O02842,card,paid,586.33
+PAY02843,O02843,cash on delivery,paid,6666.28
+PAY02844,O02844,wallet,failed,232.77
+PAY02845,O02845,card,paid,266.86
+PAY02846,O02846,cash on delivery,paid,8305.02
+PAY02847,O02847,cash on delivery,paid,7107.16
+PAY02848,O02848,wallet,paid,14406.77
+PAY02849,O02849,card,paid,3695.89
+PAY02850,O02850,wallet,paid,12251.49
+PAY02851,O02851,cash on delivery,paid,5849.36
+PAY02852,O02852,card,paid,499.0
+PAY02853,O02853,wallet,paid,4136.12
+PAY02854,O02854,cash on delivery,paid,8779.21
+PAY02855,O02855,card,paid,1416.98
+PAY02856,O02856,cash on delivery,paid,1300.8
+PAY02857,O02857,wallet,paid,6223.19
+PAY02858,O02858,cash on delivery,refunded,1867.92
+PAY02859,O02859,card,paid,11899.57
+PAY02860,O02860,card,paid,2493.7
+PAY02861,O02861,card,paid,1132.45
+PAY02862,O02862,cash on delivery,paid,3082.03
+PAY02863,O02863,cash on delivery,paid,674.28
+PAY02864,O02864,bank transfer,paid,2462.4
+PAY02865,O02865,card,paid,11595.8
+PAY02866,O02866,cash on delivery,paid,2990.11
+PAY02867,O02867,cash on delivery,paid,353.34
+PAY02868,O02868,cash on delivery,paid,2311.08
+PAY02869,O02869,cash on delivery,paid,4031.51
+PAY02870,O02870,wallet,paid,4525.16
+PAY02871,O02871,cash on delivery,paid,8524.56
+PAY02872,O02872,card,paid,5409.66
+PAY02873,O02873,bank transfer,paid,4905.67
+PAY02874,O02874,cash on delivery,paid,5541.06
+PAY02875,O02875,bank transfer,paid,596.58
+PAY02876,O02876,card,paid,10004.41
+PAY02877,O02877,card,paid,1095.55
+PAY02878,O02878,cash on delivery,paid,995.29
+PAY02879,O02879,wallet,paid,2476.0
+PAY02880,O02880,card,paid,2172.56
+PAY02881,O02881,bank transfer,paid,6581.05
+PAY02882,O02882,cash on delivery,paid,4933.79
+PAY02883,O02883,bank transfer,paid,3523.04
+PAY02884,O02884,cash on delivery,paid,203.92
+PAY02885,O02885,cash on delivery,paid,6825.13
+PAY02886,O02886,cash on delivery,paid,5623.94
+PAY02887,O02887,card,paid,2327.86
+PAY02888,O02888,card,paid,1070.55
+PAY02889,O02889,card,paid,1993.19
+PAY02890,O02890,card,paid,15676.93
+PAY02891,O02891,cash on delivery,paid,2690.51
+PAY02892,O02892,cash on delivery,paid,9893.15
+PAY02893,O02893,wallet,paid,788.39
+PAY02894,O02894,cash on delivery,paid,5572.78
+PAY02895,O02895,card,paid,2427.04
+PAY02896,O02896,cash on delivery,paid,2157.58
+PAY02897,O02897,wallet,paid,421.76
+PAY02898,O02898,cash on delivery,refunded,1495.05
+PAY02899,O02899,cash on delivery,paid,6454.13
+PAY02900,O02900,card,paid,478.24
+PAY02901,O02901,bank transfer,paid,11377.4
+PAY02902,O02902,wallet,paid,6845.93
+PAY02903,O02903,card,paid,5583.09
+PAY02904,O02904,cash on delivery,refunded,16141.17
+PAY02905,O02905,wallet,refunded,604.3
+PAY02906,O02906,card,paid,500.57
+PAY02907,O02907,cash on delivery,paid,4083.83
+PAY02908,O02908,wallet,paid,7028.93
+PAY02909,O02909,cash on delivery,paid,1278.97
+PAY02910,O02910,wallet,paid,3389.48
+PAY02911,O02911,cash on delivery,paid,2096.05
+PAY02912,O02912,wallet,paid,2736.02
+PAY02913,O02913,card,paid,1731.41
+PAY02914,O02914,bank transfer,paid,824.43
+PAY02915,O02915,cash on delivery,paid,5961.3
+PAY02916,O02916,cash on delivery,failed,5714.57
+PAY02917,O02917,bank transfer,paid,143.32
+PAY02918,O02918,cash on delivery,paid,8278.6
+PAY02919,O02919,cash on delivery,paid,17658.33
+PAY02920,O02920,card,paid,4028.44
+PAY02921,O02921,cash on delivery,refunded,16110.49
+PAY02922,O02922,cash on delivery,paid,3482.08
+PAY02923,O02923,card,paid,2914.2
+PAY02924,O02924,card,paid,4010.34
+PAY02925,O02925,cash on delivery,paid,4170.83
+PAY02926,O02926,card,paid,2755.92
+PAY02927,O02927,wallet,paid,4855.12
+PAY02928,O02928,card,paid,3042.9
+PAY02929,O02929,card,paid,7078.98
+PAY02930,O02930,bank transfer,paid,5812.39
+PAY02931,O02931,cash on delivery,paid,76.54
+PAY02932,O02932,card,paid,2549.94
+PAY02933,O02933,cash on delivery,paid,746.42
+PAY02934,O02934,card,paid,1152.45
+PAY02935,O02935,card,paid,1293.33
+PAY02936,O02936,card,paid,707.91
+PAY02937,O02937,bank transfer,paid,204.72
+PAY02938,O02938,cash on delivery,paid,6752.38
+PAY02939,O02939,card,paid,886.0
+PAY02940,O02940,card,refunded,1263.61
+PAY02941,O02941,cash on delivery,paid,7388.0
+PAY02942,O02942,card,paid,8582.05
+PAY02943,O02943,bank transfer,paid,357.74
+PAY02944,O02944,cash on delivery,paid,6629.4
+PAY02945,O02945,cash on delivery,paid,401.36
+PAY02946,O02946,cash on delivery,paid,3776.33
+PAY02947,O02947,card,paid,6047.03
+PAY02948,O02948,card,paid,7676.68
+PAY02949,O02949,cash on delivery,paid,2936.54
+PAY02950,O02950,bank transfer,paid,2785.04
+PAY02951,O02951,cash on delivery,paid,557.87
+PAY02952,O02952,cash on delivery,paid,262.23
+PAY02953,O02953,bank transfer,paid,6811.39
+PAY02954,O02954,card,paid,10536.07
+PAY02955,O02955,card,paid,1555.54
+PAY02956,O02956,cash on delivery,paid,6206.51
+PAY02957,O02957,cash on delivery,paid,183.92
+PAY02958,O02958,card,paid,2271.51
+PAY02959,O02959,card,paid,2949.43
+PAY02960,O02960,cash on delivery,paid,6853.45
+PAY02961,O02961,card,failed,80.64
+PAY02962,O02962,bank transfer,refunded,6414.29
+PAY02963,O02963,cash on delivery,paid,2445.51
+PAY02964,O02964,bank transfer,paid,482.19
+PAY02965,O02965,cash on delivery,paid,2710.77
+PAY02966,O02966,card,paid,685.35
+PAY02967,O02967,cash on delivery,paid,3310.55
+PAY02968,O02968,card,paid,2687.28
+PAY02969,O02969,cash on delivery,paid,5773.0
+PAY02970,O02970,wallet,paid,1958.77
+PAY02971,O02971,card,paid,7480.44
+PAY02972,O02972,card,paid,12804.98
+PAY02973,O02973,card,paid,2225.31
+PAY02974,O02974,cash on delivery,paid,6595.42
+PAY02975,O02975,card,paid,88.02
+PAY02976,O02976,card,paid,120.54
+PAY02977,O02977,card,paid,7106.98
+PAY02978,O02978,card,paid,278.24
+PAY02979,O02979,card,paid,2908.58
+PAY02980,O02980,card,paid,4213.58
+PAY02981,O02981,cash on delivery,paid,882.13
+PAY02982,O02982,cash on delivery,paid,10947.02
+PAY02983,O02983,cash on delivery,paid,4574.97
+PAY02984,O02984,cash on delivery,paid,2893.58
+PAY02985,O02985,cash on delivery,paid,6847.38
+PAY02986,O02986,bank transfer,paid,323.01
+PAY02987,O02987,wallet,paid,983.04
+PAY02988,O02988,cash on delivery,paid,21342.1
+PAY02989,O02989,bank transfer,paid,2100.17
+PAY02990,O02990,cash on delivery,paid,85.12
+PAY02991,O02991,wallet,paid,5709.69
+PAY02992,O02992,card,paid,3304.93
+PAY02993,O02993,cash on delivery,paid,6421.38
+PAY02994,O02994,cash on delivery,paid,3062.61
+PAY02995,O02995,card,paid,10246.45
+PAY02996,O02996,bank transfer,paid,1796.22
+PAY02997,O02997,card,paid,921.18
+PAY02998,O02998,card,paid,9171.94
+PAY02999,O02999,card,refunded,280.02
+PAY03000,O03000,cash on delivery,paid,3294.38
+PAY03001,O03001,card,paid,127.98
+PAY03002,O03002,card,paid,5789.29
+PAY03003,O03003,wallet,paid,3759.87
+PAY03004,O03004,card,paid,9810.43
+PAY03005,O03005,cash on delivery,paid,2090.48
+PAY03006,O03006,card,paid,9380.53
+PAY03007,O03007,card,paid,10631.12
+PAY03008,O03008,card,paid,4519.27
+PAY03009,O03009,card,paid,12301.49
+PAY03010,O03010,cash on delivery,paid,7358.5
+PAY03011,O03011,wallet,paid,206.73
+PAY03012,O03012,cash on delivery,paid,3295.81
+PAY03013,O03013,card,refunded,6576.87
+PAY03014,O03014,cash on delivery,paid,7600.25
+PAY03015,O03015,cash on delivery,paid,4138.08
+PAY03016,O03016,cash on delivery,paid,6382.47
+PAY03017,O03017,cash on delivery,paid,9576.61
+PAY03018,O03018,cash on delivery,paid,66.42
+PAY03019,O03019,card,paid,11741.3
+PAY03020,O03020,card,paid,5550.2
+PAY03021,O03021,cash on delivery,paid,14733.74
+PAY03022,O03022,cash on delivery,refunded,9671.77
+PAY03023,O03023,bank transfer,paid,2909.26
+PAY03024,O03024,card,paid,185.08
+PAY03025,O03025,cash on delivery,paid,8911.81
+PAY03026,O03026,bank transfer,paid,1337.85
+PAY03027,O03027,cash on delivery,paid,2543.88
+PAY03028,O03028,wallet,paid,5652.54
+PAY03029,O03029,cash on delivery,paid,3193.27
+PAY03030,O03030,card,paid,18833.01
+PAY03031,O03031,wallet,refunded,19003.47
+PAY03032,O03032,card,paid,240.29
+PAY03033,O03033,card,paid,1480.92
+PAY03034,O03034,card,paid,6784.11
+PAY03035,O03035,card,paid,2336.12
+PAY03036,O03036,bank transfer,paid,13335.23
+PAY03037,O03037,wallet,paid,4281.78
+PAY03038,O03038,cash on delivery,paid,622.49
+PAY03039,O03039,cash on delivery,paid,197.47
+PAY03040,O03040,cash on delivery,paid,1434.34
+PAY03041,O03041,cash on delivery,paid,2824.47
+PAY03042,O03042,cash on delivery,paid,3077.03
+PAY03043,O03043,cash on delivery,paid,2354.43
+PAY03044,O03044,wallet,paid,213.92
+PAY03045,O03045,card,paid,202.98
+PAY03046,O03046,bank transfer,paid,3583.55
+PAY03047,O03047,card,paid,4246.48
+PAY03048,O03048,cash on delivery,paid,984.56
+PAY03049,O03049,bank transfer,paid,1055.17
+PAY03050,O03050,bank transfer,refunded,2276.91
+PAY03051,O03051,cash on delivery,paid,77.21
+PAY03052,O03052,bank transfer,paid,547.86
+PAY03053,O03053,cash on delivery,refunded,6145.43
+PAY03054,O03054,card,paid,2597.62
+PAY03055,O03055,cash on delivery,paid,1502.21
+PAY03056,O03056,cash on delivery,paid,1452.4
+PAY03057,O03057,bank transfer,paid,9811.0
+PAY03058,O03058,card,paid,14199.5
+PAY03059,O03059,cash on delivery,paid,5057.98
+PAY03060,O03060,cash on delivery,paid,4062.27
+PAY03061,O03061,cash on delivery,paid,4708.55
+PAY03062,O03062,bank transfer,paid,6904.67
+PAY03063,O03063,cash on delivery,paid,12684.72
+PAY03064,O03064,card,paid,15844.89
+PAY03065,O03065,card,paid,2100.63
+PAY03066,O03066,cash on delivery,paid,3121.17
+PAY03067,O03067,cash on delivery,paid,3950.28
+PAY03068,O03068,card,paid,1451.86
+PAY03069,O03069,bank transfer,paid,5990.11
+PAY03070,O03070,card,paid,1882.71
+PAY03071,O03071,card,paid,1988.68
+PAY03072,O03072,wallet,paid,714.86
+PAY03073,O03073,cash on delivery,paid,1272.77
+PAY03074,O03074,cash on delivery,paid,4516.02
+PAY03075,O03075,cash on delivery,paid,1088.12
+PAY03076,O03076,wallet,paid,2114.2
+PAY03077,O03077,cash on delivery,failed,7011.12
+PAY03078,O03078,wallet,paid,6366.54
+PAY03079,O03079,bank transfer,paid,248.92
+PAY03080,O03080,card,paid,3710.17
+PAY03081,O03081,card,paid,3393.26
+PAY03082,O03082,cash on delivery,paid,630.71
+PAY03083,O03083,card,paid,181.24
+PAY03084,O03084,wallet,paid,10004.32
+PAY03085,O03085,cash on delivery,failed,5455.26
+PAY03086,O03086,cash on delivery,paid,1043.26
+PAY03087,O03087,cash on delivery,failed,7201.58
+PAY03088,O03088,card,paid,595.01
+PAY03089,O03089,card,failed,10187.56
+PAY03090,O03090,cash on delivery,paid,13658.45
+PAY03091,O03091,card,paid,11809.49
+PAY03092,O03092,card,paid,3938.18
+PAY03093,O03093,wallet,paid,181.92
+PAY03094,O03094,card,paid,9806.65
+PAY03095,O03095,bank transfer,paid,679.37
+PAY03096,O03096,cash on delivery,paid,4148.08
+PAY03097,O03097,card,refunded,5874.0
+PAY03098,O03098,cash on delivery,paid,7306.04
+PAY03099,O03099,cash on delivery,paid,3918.11
+PAY03100,O03100,card,paid,6213.63
+PAY03101,O03101,card,paid,9158.73
+PAY03102,O03102,cash on delivery,paid,15497.37
+PAY03103,O03103,cash on delivery,paid,4920.11
+PAY03104,O03104,card,paid,8912.7
+PAY03105,O03105,cash on delivery,paid,2044.97
+PAY03106,O03106,bank transfer,paid,176.67
+PAY03107,O03107,cash on delivery,paid,12175.1
+PAY03108,O03108,cash on delivery,paid,1606.29
+PAY03109,O03109,wallet,paid,195.98
+PAY03110,O03110,cash on delivery,paid,2218.35
+PAY03111,O03111,cash on delivery,paid,98.63
+PAY03112,O03112,card,paid,2128.01
+PAY03113,O03113,cash on delivery,paid,2924.2
+PAY03114,O03114,cash on delivery,paid,814.17
+PAY03115,O03115,wallet,refunded,6809.56
+PAY03116,O03116,cash on delivery,paid,1127.66
+PAY03117,O03117,cash on delivery,paid,4644.28
+PAY03118,O03118,cash on delivery,paid,6774.21
+PAY03119,O03119,card,paid,4338.02
+PAY03120,O03120,card,paid,2314.47
+PAY03121,O03121,bank transfer,paid,218.08
+PAY03122,O03122,card,refunded,13619.44
+PAY03123,O03123,cash on delivery,paid,3180.2
+PAY03124,O03124,cash on delivery,paid,2823.43
+PAY03125,O03125,cash on delivery,paid,1100.74
+PAY03126,O03126,card,paid,1076.66
+PAY03127,O03127,cash on delivery,paid,8094.24
+PAY03128,O03128,cash on delivery,paid,773.16
+PAY03129,O03129,card,paid,7000.91
+PAY03130,O03130,cash on delivery,paid,1093.95
+PAY03131,O03131,card,failed,7459.12
+PAY03132,O03132,cash on delivery,paid,2290.08
+PAY03133,O03133,bank transfer,paid,1023.26
+PAY03134,O03134,card,paid,4419.34
+PAY03135,O03135,cash on delivery,paid,164.26
+PAY03136,O03136,cash on delivery,paid,1031.55
+PAY03137,O03137,card,paid,3486.74
+PAY03138,O03138,card,refunded,238.27
+PAY03139,O03139,cash on delivery,paid,449.51
+PAY03140,O03140,cash on delivery,paid,4927.42
+PAY03141,O03141,cash on delivery,paid,4898.28
+PAY03142,O03142,cash on delivery,paid,3321.85
+PAY03143,O03143,card,paid,2677.11
+PAY03144,O03144,cash on delivery,paid,7116.91
+PAY03145,O03145,card,paid,1009.56
+PAY03146,O03146,bank transfer,refunded,11314.61
+PAY03147,O03147,card,paid,14483.28
+PAY03148,O03148,bank transfer,paid,634.75
+PAY03149,O03149,cash on delivery,paid,2924.26
+PAY03150,O03150,cash on delivery,paid,2405.17
+PAY03151,O03151,bank transfer,paid,1470.55
+PAY03152,O03152,wallet,paid,2417.04
+PAY03153,O03153,bank transfer,paid,9334.14
+PAY03154,O03154,wallet,paid,3017.79
+PAY03155,O03155,cash on delivery,paid,4158.96
+PAY03156,O03156,wallet,paid,10979.93
+PAY03157,O03157,cash on delivery,paid,1108.48
+PAY03158,O03158,cash on delivery,paid,216.02
+PAY03159,O03159,card,paid,81.1
+PAY03160,O03160,cash on delivery,paid,6316.01
+PAY03161,O03161,wallet,paid,5287.62
+PAY03162,O03162,cash on delivery,paid,895.76
+PAY03163,O03163,card,paid,5185.7
+PAY03164,O03164,cash on delivery,paid,3467.97
+PAY03165,O03165,wallet,paid,3463.8
+PAY03166,O03166,cash on delivery,paid,7223.06
+PAY03167,O03167,cash on delivery,paid,9791.14
+PAY03168,O03168,bank transfer,paid,3089.99
+PAY03169,O03169,card,failed,15047.5
+PAY03170,O03170,card,paid,788.39
+PAY03171,O03171,card,paid,11028.34
+PAY03172,O03172,cash on delivery,paid,2235.9
+PAY03173,O03173,card,paid,2904.02
+PAY03174,O03174,bank transfer,paid,5113.81
+PAY03175,O03175,card,paid,5582.01
+PAY03176,O03176,cash on delivery,paid,11022.74
+PAY03177,O03177,wallet,paid,949.38
+PAY03178,O03178,cash on delivery,paid,11996.21
+PAY03179,O03179,cash on delivery,paid,8033.65
+PAY03180,O03180,cash on delivery,paid,3082.03
+PAY03181,O03181,wallet,paid,2930.75
+PAY03182,O03182,bank transfer,paid,6293.99
+PAY03183,O03183,wallet,paid,92.21
+PAY03184,O03184,cash on delivery,paid,3387.43
+PAY03185,O03185,card,paid,796.12
+PAY03186,O03186,card,paid,9166.12
+PAY03187,O03187,cash on delivery,paid,3683.02
+PAY03188,O03188,cash on delivery,paid,13387.15
+PAY03189,O03189,card,paid,12959.26
+PAY03190,O03190,wallet,paid,8089.24
+PAY03191,O03191,cash on delivery,paid,8396.24
+PAY03192,O03192,cash on delivery,refunded,7052.67
+PAY03193,O03193,bank transfer,paid,5696.7
+PAY03194,O03194,card,paid,820.18
+PAY03195,O03195,wallet,paid,10893.68
+PAY03196,O03196,card,failed,2094.97
+PAY03197,O03197,cash on delivery,paid,9721.09
+PAY03198,O03198,cash on delivery,paid,20134.49
+PAY03199,O03199,bank transfer,paid,463.48
+PAY03200,O03200,cash on delivery,paid,2914.2

@@ -1,0 +1,7 @@
+dataset,original_rows,cleaned_rows,duplicates_removed,missing_values_before,missing_values_after,date_conversion_failures,numeric_conversion_failures
+customers,1000,1000,0,12,12,"{""signup_date"": 0}","{""customer_age"": 0}"
+products,100,100,0,0,0,{},"{""unit_price_mad"": 0, ""cost_price_mad"": 0}"
+orders,3205,3200,5,591,591,"{""order_date"": 0, ""delivery_date"": 0}","{""shipping_fee_mad"": 0}"
+order_items,5376,5376,0,0,0,{},"{""quantity"": 0, ""unit_price_mad"": 0, ""discount_rate"": 0, ""line_total_mad"": 0}"
+payments,3200,3200,0,0,0,{},"{""payment_amount_mad"": 0}"
+reviews,2019,2019,0,15,15,"{""review_date"": 0}","{""rating"": 0}"
